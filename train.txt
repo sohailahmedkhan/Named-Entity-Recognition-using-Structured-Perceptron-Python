@@ -1,0 +1,3416 @@
+Peter Blackburn	PER PER
+BRUSSELS 1996-08-22	LOC O
+.	O
+LONDON 1996-08-22	LOC O
+BEIJING 1996-08-22	LOC O
+BEIJING 1996-08-22	LOC O
+FRANKFURT 1996-08-22	LOC O
+ATHENS 1996-08-22	LOC O
+LONDON 1996-08-22	LOC O
+BORROWER BAYERISCHE VEREINSBANK	O ORG ORG
+LONDON 1996-08-22	LOC O
+LAST S&P AA+ REOFFER =	O ORG O O O
+NOTES S SHORT FIRST COUPON	O O O O O
+NOTES ISSUED OFF EMTN PROGRAMME	O O O O O
+Colleen Siegel	PER PER
+JERUSALEM 1996-08-22	LOC O
+The media ...	O O O
+TUNIS 1996-08-22	LOC O
+Hassan Hafidh	PER PER
+BAGHDAD 1996-08-22	LOC O
+MANAMA 1996-08-22	LOC O
+JERUSALEM 1996-08-22	LOC O
+JERUSALEM 1996-08-22	LOC O
+Hilary Gush	PER PER
+DUBAI 1996-08-22	LOC O
+He did not elaborate .	O O O O O
+BAGHDAD 1996-08-22	LOC O
+BAGHDAD 1996-08-22	LOC O
+THAWRA	ORG
+IRAQ	LOC
+BEIRUT 1996-08-22	LOC O
+AN-NAHAR	ORG
+AS-SAFIR	ORG
+AL-ANWAR	ORG
+AD-DIYAR	ORG
+NIDA'A AL-WATAN	ORG ORG
+CHICAGO 1996-08-22	LOC O
+MONTGOMERY , Ala .	LOC O LOC O
+1996-08-22	O
+PHOENIX 1996-08-22	LOC O
+Summary of Consolidated Financial Data	O O ORG ORG ORG
+Six Months Ended Quarter Ended	O O O O O
+1996 1995 1996 1995	O O O O
+Income Statement Data :	O O O O
+Balance Sheet Data :	O O O O
+Total Assets 14,196 7,138	O O O O
+ATHENS 1996-08-22	LOC O
+PARIS 1996-08-22	LOC O
+FRONT PAGE	O O
+BUSINESS PAGES	O O
+OSLO 1996-08-22	LOC O
+HELSINKI 1996-08-22	LOC O
+Imports 10,663 10,725 43,430 40,989	O O O O O
+Exports 14,494 14,153 56,126 56,261	O O O O O
+Balance +3,831 +3,428 +12,696 +15,272	O O O O O
+AMSTERDAM 1996-08-22	LOC O
+BONN 1996-08-22	LOC O
+AKRON , Ohio 1996-08-22	LOC O LOC O
+Scores from the $ 2.1	O O O O O
+68 Steve Stricker	O PER PER
+O'Meara , Fred Couples	PER O PER PER
+Maruyama ( Japan )	PER O LOC O
+76 Scott McCarron	O PER PER
+79 Tom Watson	O PER PER
+BISTRITA 1996-08-22	LOC O
+Scorers :	O O
+Attendance : 8,000	O O O
+REUTER	PER
+YORK , England 1996-08-22	LOC O LOC O
+YORK , England 1996-08-22	LOC O LOC O
+Eight ran .	O O O
+Mark Prescott at Newmarket .	PER PER O LOC O
+CARLSBAD , California 1996-08-21	LOC O LOC O
+Results from the	O O O
+Second round	O O
+1-6 6-4 6-3	O O O
+6-4	O
+6-2	O
+COMMACK , New York 1996-08-21	LOC O LOC LOC O
+Results from the	O O O
+number denotes seeding ) :	O O O O O
+Second round	O O
+6-3	O
+7-5	O
+LONDON 1996-08-22	LOC O
+LONDON 1996-08-22	LOC O
+Second day	O O
+Firsy day	O O
+Essex 72-0 .	ORG O O
+Glamorgan .	ORG O
+52 ) v Worcestershire .	O O O ORG O
+LONDON 1996-08-22	LOC O
+Thursday :	O O
+England first innings	LOC O O
+J. Crawley not out 94	PER PER O O O
+I. Salisbury not out 1	PER PER O O O
+Aamir Sohail 6-1-17-0	PER PER O
+GLASGOW 1996-08-22	LOC O
+LONDON 1996-08-22	LOC O
+LONDON 1996-08-22	LOC O
+TORONTO 1996-08-21	LOC O
+Results from the Canadian Open	O O O MISC MISC
+seeding ) :	O O O
+Second round	O O
+Republic ) 7-5 6-3	LOC O O O
+6-2	O
+( 7-1 ) 6-4	O O O O
+( Spain ) 6-1 6-2	O LOC O O O
+6-3 6-4	O O
+1-6 6-3	O O
+6-3 4-6 6-1	O O O
+CAPE TOWN 1996-08-22	LOC LOC O
+TIRANA 1996-08-22	LOC O
+Attendance : 5,000	O O O
+( 1-1 )	O O O
+Scorers :	O O
+Attendance : 8,000	O O O
+( 1-0 )	O O O
+Attendance : 6,500	O O O
+0 ( 2-0 )	O O O O
+Pavlos Markou ( 84th )	PER PER O O O
+Attendance : 5,000	O O O
+( Switzerland ) 0	O LOC O O
+Attendance : 5,000	O O O
+In Vinnytsya :	O LOC O
+Attendance : 3,000	O O O
+Aggregate score 2-2 .	O O O O
+Scorers :	O O
+Attendance : 2,189	O O O
+Brann win 5-2 on aggregate	ORG O O O O
+( 0-0 )	O O O
+Attendance : 25,000	O O O
+Aggregate 1-1 .	O O O
+Scorers :	O O
+Aggregate 2-2 .	O O O
+Attendance : 800	O O O
+Gabriel ( 86th )	PER O O O
+Scorers :	O O
+Attendance : 15,062	O O O
+Aggregate 1-1 .	O O O
+Aggregate 3-3 .	O O O
+Scorers :	O O
+( 87th ) .	O O O O
+Attendance : 1,500 .	O O O O
+BUDAPEST 1996-08-21	LOC O
+Scorers :	O O
+Ferencvaros :	ORG O
+Ferenc Horvath ( 15th )	PER PER O O O
+IFK Gothenburg :	ORG ORG O
+Andreas Andersson ( 87th )	PER PER O O O
+Attendance : 9,000	O O O
+RIO DE JANEIRO 1996-08-22	LOC LOC LOC O
+Results of midweek	O O O
+Bahia 2 Atletico Paranaense 0	ORG O ORG ORG O
+Corinthians 1 Guarani 0	ORG O ORG O
+Coritiba 1 Atletico Mineiro 0	ORG O ORG ORG O
+Cruzeiro 2 Vitoria 1	ORG O ORG O
+Flamengo 0 Juventude 1	ORG O ORG O
+Goias 3 Sport Recife 1	ORG O ORG ORG O
+Gremio 6 Bragantino 1	ORG O ORG O
+Portuguesa 2 Parana 0	ORG O ORG O
+SYDNEY 1996-08-22	LOC O
+KUALA LUMPUR 1996-08-22	LOC LOC O
+Results in the Malaysian	O O O MISC
+seeding ) :	O O O
+15-7	O
+15-2 17-14	O O
+( Netherlands ) 15-11 18-14	O LOC O O O
+6-15 15-7	O O
+18-15 15-6	O O
+15-8 15-12	O O
+Women 's singles 2nd round	O O O O O
+11-1	O
+NEW YORK 1996-08-22	LOC LOC O
+Revised singles draw for the	O O O O O
+Men 's Draw	O O O
+------------------------	O
+------------------------	O
+( Spain )	O LOC O
+------------------------	O
+------------------------	O
+Qualifier vs. qualifier	O O O
+------------------------	O
+------------------------	O
+------------------------	O
+BALTIMORE 1996-08-22	LOC O
+NEW YORK 1996-08-22	LOC LOC O
+Major League Baseball	MISC MISC MISC
+AMERICAN LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+BALTIMORE 67 58 .536 5	ORG O O O O
+BOSTON 63 64 .496 10	ORG O O O O
+TORONTO 58 69 .457 15	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+CLEVELAND 76 51 .598 -	ORG O O O O
+WESTERN DIVISION	MISC MISC
+TEXAS 73 54 .575 -	ORG O O O O
+SEATTLE 64 61 .512 8	ORG O O O O
+OAKLAND 62 67 .481 12	ORG O O O O
+THURSDAY , AUGUST 22 SCHEDULE	O O O O O
+OAKLAND AT BOSTON	ORG O LOC
+SEATTLE AT BALTIMORE	ORG O LOC
+CALIFORNIA AT NEW YORK	ORG O LOC LOC
+TORONTO AT CHICAGO	ORG O LOC
+DETROIT AT KANSAS CITY	ORG O LOC LOC
+TEXAS AT MINNESOTA	ORG O LOC
+NATIONAL LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+ATLANTA 79 46 .632 -	ORG O O O O
+MONTREAL 67 58 .536 12	ORG O O O O
+FLORIDA 58 69 .457 22	ORG O O O O
+PHILADELPHIA 52 75 .409 28	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+HOUSTON 68 59 .535 -	ORG O O O O
+CHICAGO 63 62 .504 4	ORG O O O O
+WESTERN DIVISION	MISC MISC
+COLORADO 65 62 .512 4	ORG O O O O
+THURSDAY , AUGUST 22 SCHEDULE	O O O O O
+ST LOUIS AT COLORADO	ORG ORG O LOC
+CINCINNATI AT ATLANTA	ORG O LOC
+PITTSBURGH AT HOUSTON	ORG O LOC
+PHILADELPHIA AT LOS ANGELES	ORG O LOC LOC
+MONTREAL AT SAN FRANCISCO	ORG O LOC LOC
+NEW YORK 1996-08-22	LOC LOC O
+Results of Major League	O O MISC MISC
+American League	MISC MISC
+California 7 NEW YORK 1	ORG O ORG ORG O
+DETROIT 7 Chicago 4	ORG O ORG O
+Milwaukee 10 MINNESOTA 7	ORG O ORG O
+BOSTON 6 Oakland 4	ORG O ORG O
+BALTIMORE 10 Seattle 5	ORG O ORG O
+Toronto 6 KANSAS CITY 2	ORG O ORG ORG O
+National League	MISC MISC
+CHICAGO 8 Florida 3	ORG O ORG O
+ATLANTA 4 Cincinnati 3	ORG O ORG O
+Pittsburgh 5 HOUSTON 2	ORG O ORG O
+COLORADO 10 St Louis 2	ORG O ORG ORG O
+Philadelphia 6 LOS ANGELES 0	ORG O ORG ORG O
+SAN DIEGO 7 Montreal 2	ORG ORG O ORG O
+CLEVELAND 1996-08-22	LOC O
+They stranded 11 baserunners .	O O O O O
+AMSTERDAM 1996-08-22	LOC O
+AMSTERDAM 1996-08-22	LOC O
+Summary of Thursday 's only	O O O O O
+Dutch first division match :	MISC O O O O
+Halftime 1-2 .	O O O
+Attendance 8,000	O O
+AMSTERDAM 1996-08-22	LOC O
+Result of a Dutch first	O O O MISC O
+division match on Thursday :	O O O O O
+GENEVA 1996-08-22	LOC O
+Squad :	O O
+BRUSSELS 1996-08-22	LOC O
+STUTTGART , Germany 1996-08-22	LOC O LOC O
+Leading first round	O O O
+unless stated ) :	O O O O
+62 Paul Broadhurst	O PER PER
+63 Raymond Russell	O PER PER
+Cooper	PER
+Mark Mouland	PER PER
+GENEVA 1996-08-22	LOC O
+Norway 8.62 points	LOC O O
+2. England 8.61	O LOC O
+3. Sweden 8.57	O LOC O
+4. Faroe Islands 8.56	O LOC LOC O
+5. Wales 8.54	O LOC O
+6. Estonia 8.52	O LOC O
+7. Ireland 8.45	O LOC O
+8. Belarus 8.39	O LOC O
+9. Iceland 8.35	O LOC O
+10. Netherlands 8.30	O LOC O
+10. Denmark 8.30	O LOC O
+10. Germany 8.30	O LOC O
+13. Scotland 8.29	O LOC O
+13. Latvia 8.29	O LOC O
+15. Moldova 8.24	O LOC O
+16. Yugoslavia 8.22	O LOC O
+16. Belgium 8.22	O LOC O
+18. Luxembourg 8.20	O LOC O
+19. France 8.18	O LOC O
+20. Israel 8.17	O LOC O
+21. Switzerland 8.15	O LOC O
+21. Slovakia 8.15	O LOC O
+23. Poland 8.12	O LOC O
+23. Portugal 8.12	O LOC O
+25. Georgia 8.10	O LOC O
+26. Ukraine 8.09	O LOC O
+26. Spain 8.09	O LOC O
+26. Finland 8.09	O LOC O
+29. Macedonia 8.07	O LOC O
+30. Lithuania 8.06	O LOC O
+31. Austria 8.05	O LOC O
+32. Russia 8.03	O LOC O
+33. Romania 8.02	O LOC O
+33. Turkey 8.02	O LOC O
+35. Hungary 7.98	O LOC O
+36. Czech Republic 7.95	O LOC LOC O
+37. Greece 7.89	O LOC O
+37. Northern Ireland 7.89	O LOC LOC O
+39. Italy 7.85	O LOC O
+40. Cyprus 7.83	O LOC O
+41. Armenia 7.80	O LOC O
+42. Slovenia 7.77	O LOC O
+43. Croatia 7.75	O LOC O
+44. Bulgaria 7.73	O LOC O
+45. Malta 7.40	O LOC O
+COLOMBO 1996-08-22	LOC O
+SOFIA 1996-08-22	LOC O
+-- Sofia Newsroom , 359-2-84561	O ORG ORG O O
+*	O
+*	O
+MINNETONKA , Minn .	LOC O LOC O
+1996-08-22	O
+-- Chicago Newsdesk 312-408-8787	O ORG ORG O
+NEW YORK 1996-08-22	LOC LOC O
+RICHMOND , Va .	LOC O LOC O
+1996-08-22	O
+LONDON 1996-08-23	LOC O
+LONDON 1996-08-23	LOC O
+London shipsales .	LOC O O
+LONDON 1996-08-22	LOC O
+LONDON 1996-08-22	LOC O
+LONDON 1996-08-22	LOC O
+Bill Berkrot	PER PER
+NEW YORK 1996-08-22	LOC LOC O
+-- Sydney Newsroom 61-2 9373-1800	O ORG ORG O O
+TORONTO 1996-08-21	LOC O
+SEOUL 1996-08-22	LOC O
+DAKAR 1996-08-22	LOC O
+MONROVIA 1996-08-22	LOC O
+CONAKRY 1996-08-22	LOC O
+JOHANNESBURG 1996-08-22	LOC O
+JOHANNESBURG 1996-08-22	LOC O
+BUDAPEST 1996-08-22	LOC O
+The latest indicators :	O O O O
+MOSCOW 1996-08-22	LOC O
+GDANSK , Poland 1996-08-22	LOC O LOC O
+PRAGUE 1996-08-22	LOC O
+-- Prague Newsroom , 42-2-2423-0003	O ORG ORG O O
+NOVYE ATAGI , Russia 1996-08-22	LOC LOC O LOC O
+NOVYE ATAGI , Russia 1996-08-22	LOC LOC O LOC O
+MOSCOW 1996-08-22	LOC O
+SARAJEVO 1996-08-22	LOC O
+OSLOBODJENJE	ORG
+DNEVNI AVAZ	ORG ORG
+ALKHAN-YURT , Russia 1996-08-22	LOC O LOC O
+BOGOTA , Colombia 1996-08-22	LOC O LOC O
+BUENOS AIRES 1996-08-22	LOC LOC O
+LIMA , Peru 1996-08-21	LOC O LOC O
+PARAMARIBO , Surinam 1996-08-21	LOC O LOC O
+BANGKOK 1996-08-22	LOC O
+BEIJING 1996-08-22	LOC O
+NABLUS , West Bank 1996-08-22	LOC O LOC LOC O
+Daoud said .	PER O O
+CAIRO 1996-08-22	LOC O
+It 's very wet .	O O O O O
+CAIRO 1996-08-22	LOC O
+ISTANBUL 1996-08-22	LOC O
+Kieran Murray	PER PER
+LAS CRUCES , N.M. 1996-08-22	LOC LOC O O O
+" Are you kidding ?	O O O O O
+She looked great .	O O O O
+Very sexy . "	O O O O
+5 .	O O
+PONTIAC , Mich .	LOC O LOC O
+1996-08-22	O
+NEW YORK 1996-08-22	LOC LOC O
+Moody 's Investors Service -	ORG ORG ORG ORG O
+Issuer : Fairview Town	O O LOC LOC
+State : TX	O O LOC
+Rating : Baa1	O O O
+Sale Amount : 1,820,000	O O O O
+Expected Sale Date : 08/27/96	O O O O O
+Andrew Gray	PER PER
+HAMBURG , Germany 1996-08-22	LOC O LOC O
+UNITED NATIONS 1996-08-22	ORG ORG O
+PARIS 1996-08-22	LOC O
+FRANKFURT 1996-08-22	LOC O
+- Tegel 10,896 up 3.1	O LOC O O O
+- Tempelhof 202 down 60.0	O LOC O O O
+- Schoenefeld 6,746 up 16.8	O LOC O O O
+Bremen 1,453 up 13.1	LOC O O O
+Dresden 792 up 11.4	LOC O O O
+Duessseldorf 31,347 down 4.4	LOC O O O
+Frankfurt 768,269 up 1.5	LOC O O O
+Hamburg 21,240 down 3.5	LOC O O O
+Hannover 6,030 up 15.3	LOC O O O
+Munich 44,525 up 11.8	LOC O O O
+Nuremberg 25,929 up 17.8	LOC O O O
+Saarbruecken 626 up 28.3	LOC O O O
+Stuttgart 10,655 up 11.7	LOC O O O
+TOTAL 1,113,785 up 3.8	O O O O
+AMSTERDAM 1996-08-22	LOC O
+Company-------------Price---Broker----------------	O
+Aegon 83.40 Paribas	ORG O ORG
+1996 5.83 13.8 2.75	O O O O
+1997 6.59 12.2 3.10	O O O O
+DUBLIN 1996-08-22	LOC O
+BONN 1996-08-22	LOC O
+NEW DELHI 1996-08-22	LOC LOC O
+DHAKA 1996-08-22	LOC O
+SRINAGAR , India 1996-08-22	LOC O LOC O
+DHAKA 1996-08-22	LOC O
+.	O
+NEW DELHI 1996-08-22	LOC LOC O
+BOMBAY 1996-08-22	LOC O
+-- Bombay newsroom +91-22-265 9000	O LOC O O O
+CALCUTTA 1996-08-22	LOC O
+She agreed .	O O O
+It was an order .	O O O O O
+Bernard Hickey	PER PER
+SYDNEY 1996-08-22	LOC O
+-- Sydney Newsroom 61-2 373-1800	O ORG ORG O O
+CANBERRA 1996-08-22	LOC O
+-- Sydney Newsroom 61-2 9373-1800	O ORG ORG O O
+WELLINGTON 1996-08-22	LOC O
+The rates are :	O O O O
+New rate old rate	O O O O
+One year 10.5 pct 10.95	O O O O O
+Two year 10.5 pct 11.25	O O O O O
+Three year 10.5 pct 11.25	O O O O O
+WELLINGTON 1996-08-22	LOC O
+BANGKOK	LOC
+TOKYO 1996-08-22	LOC O
+LATEST ACTUAL	O O
+( Parent ) FORECAST YEAR-AGO	O O O O O
+Sales 26.00 26.70	O O O
+Current 400 million 329 million	O O O O O
+Net 250 million 84 million	O O O O O
+EPS 11.61 yen 3.92 yen	O O O O O
+HONG KONG 1996-08-22	LOC LOC O
+KUALA LUMPUR 1996-08-22	LOC LOC O
+JAKARTA 1996-08-22	LOC O
+MARKETS :	O O
+STOCKS TO WATCH	O O O
+LONDON 1996-08-23	LOC O
+CLOSE IN POINTS	O O O
+LONDON 3,907.5 +16.4 3,907.5 3,632.3	LOC O O O O
+PARIS 2,020.82 +3.06 2,146.79 1,897.85	LOC O O O O
+SYDNEY 2,292.9 +18.3 2,326.00 2,096.10	LOC O O O O
+- - - -	O O O O
+Dollar / mark ...	O O O O
+1.4871 ( 1.4935 )	O O O O
+Dollar / yen ....	O O O O
+108.50 ( 108.43 )	O O O O
+Pound / dollar ..	O O O O
+Gold ( ounce ) ..	O O O O O
+- - - -	O O O O
+Rostislav Khotin	PER PER
+KIEV 1996-08-23	LOC O
+TIRANA 1996-08-23	LOC O
+MOSCOW 1996-08-23	LOC O
+LOS ANGELES 1996-08-22	LOC LOC O
+LONDON 1996-08-23	LOC O
+SPA-FRANCORCHAMPS , Belgium 1996-08-23	LOC O LOC O
+Leading times	O O
+[ CORRECTED 05:30 GMT ]	O O O MISC O
+CARLSBAD , California 1996-08-22	LOC O LOC O
+Results from the	O O O
+number denotes seeding ) :	O O O O O
+Quarter-finals	O
+6-3 6-4	O O
+Second round	O O
+6-1 7-5	O O
+LONDON 1996-08-23	LOC O
+Results of English first division	O O MISC O O
+soccer matches on Friday :	O O O O O
+Tranmere 3 Grimsby 2	ORG O ORG O
+GLASGOW 1996-08-23	LOC O
+Result of a Scottish third	O O O MISC O
+East Stirling 0 Albion 1	ORG ORG O ORG O
+LONDON 1996-08-23	LOC O
+Third day	O O
+R. Harden 65 ) .	PER PER O O O
+Second day	O O
+72 not out ) .	O O O O O
+Northamptonshire 160-4 ( K. Curran	ORG O O PER PER
+79 not out ) .	O O O O O
+Worcestershire 10-0 .	ORG O O
+Lancashire	ORG
+LONDON 1996-08-23	LOC O
+LONDON 1996-08-23	LOC O
+Oval on Friday :	LOC O O O
+England first innings	LOC O O
+R. Croft not out 5	PER PER O O O
+Total 326	O O
+8-284 9-295	O O
+6-1-17-0	O
+Pakistan first innings	LOC O O
+Saeed Anwar not out 116	PER PER O O O
+Ijaz Ahmed not out 58	PER PER O O O
+Fall of wicket - 1-106	O O O O O
+LONDON 1996-08-23	LOC O
+Waqar Younis 4-95 )	PER PER O O
+LONDON 1996-08-23	LOC O
+TORONTO 1996-08-22	LOC O
+TORONTO 1996-08-22	LOC O
+Results from the Canadian Open	O O O MISC MISC
+Third round	O O
+6-4	O
+6-3	O
+6-3 6-4	O O
+6-2 6-1	O O
+6-4	O
+Republic ) 6-3 6-4	LOC O O O
+6-3	O
+JOHANNESBURG 1996-08-23	LOC O
+KUALA LUMPUR 1996-08-23	LOC LOC O
+Results in the Malaysian	O O O MISC
+seedings ) :	O O O
+Men 's singles , quarter-finals	O O O O O
+15-9 15-7	O O
+NEW YORK 1996-08-23	LOC LOC O
+NEW YORK 1996-08-23	LOC LOC O
+Major League Baseball	MISC MISC MISC
+AMERICAN LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+BALTIMORE 67 59 .532 5	ORG O O O O
+BOSTON 64 64 .500 9	ORG O O O O
+TORONTO 59 69 .461 14	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+CLEVELAND 76 51 .598 -	ORG O O O O
+CHICAGO 69 60 .535 8	ORG O O O O
+MINNESOTA 63 64 .496 13	ORG O O O O
+WESTERN DIVISION	MISC MISC
+TEXAS 74 54 .578 -	ORG O O O O
+SEATTLE 65 61 .516 8	ORG O O O O
+OAKLAND 62 68 .477 13	ORG O O O O
+FRIDAY , AUGUST 23 SCHEDULE	O O O O O
+SEATTLE AT BOSTON	ORG O LOC
+MILWAUKEE AT CLEVELAND	ORG O LOC
+CALIFORNIA AT BALTIMORE	ORG O LOC
+OAKLAND AT NEW YORK	ORG O LOC LOC
+TORONTO AT CHICAGO	ORG O LOC
+DETROIT AT KANSAS CITY	ORG O LOC LOC
+TEXAS AT MINNESOTA	ORG O LOC
+NATIONAL LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+ATLANTA 79 47 .627 -	ORG O O O O
+MONTREAL 68 58 .540 11	ORG O O O O
+PHILADELPHIA 52 76 .406 28	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+HOUSTON 68 60 .531 -	ORG O O O O
+WESTERN DIVISION	MISC MISC
+FRIDAY , AUGUST 23 SCHEDULE	O O O O O
+CHICAGO AT ATLANTA	ORG O LOC
+ST LOUIS AT HOUSTON	ORG ORG O LOC
+PITTSBURGH AT COLORADO	ORG O LOC
+NEW YORK AT LOS ANGELES	ORG ORG O LOC LOC
+PHILADELPHIA AT SAN DIEGO	ORG O LOC LOC
+MONTREAL AT SAN FRANCISCO	ORG O LOC LOC
+NEW YORK 1996-08-23	LOC LOC O
+Results of Major League	O O MISC MISC
+American League	MISC MISC
+BOSTON 2 Oakland 1	ORG O ORG O
+Seattle 10 BALTIMORE 3	ORG O ORG O
+California 12 NEW YORK 3	ORG O ORG ORG O
+Detroit 10 KANSAS CITY 3	ORG O ORG ORG O
+Texas 11 MINNESOTA 2	ORG O ORG O
+National League	MISC MISC
+COLORADO 10 St Louis 5	ORG O ORG ORG O
+Pittsburgh 8 HOUSTON 6	ORG O ORG O
+LOS ANGELES 8 Philadelphia 5	ORG ORG O ORG O
+Montreal 5 SAN FRANCISCO 4	ORG O ORG ORG O
+BALTIMORE 1996-08-22	LOC O
+LISBON 1996-08-23	LOC O
+LISBON 1996-08-23	LOC O
+Result of a Portuguese first	O O O MISC O
+Espinho 1 Sporting 3	ORG O ORG O
+BONN 1996-08-23	LOC O
+BRUSSELS 1996-08-23	LOC O
+BONN 1996-08-23	LOC O
+Halftime 0-0 .	O O O
+Attendance 18,500 .	O O O
+1-3 .	O O
+19,775 .	O O
+PARIS 1996-08-23	LOC O
+Attendance : 15,000 .	O O O O
+PARIS 1996-08-23	LOC O
+BONN 1996-08-23	LOC O
+Results of German first division	O O MISC O O
+soccer matches on Friday :	O O O O O
+St Pauli 4 Schalke 4	ORG ORG O ORG O
+Hansa Rostock 0 Hamburg 1	ORG ORG O ORG O
+Adrian Warner	PER PER
+BRUSSELS 1996-08-23	LOC O
+Masterkova clearly enjoyed it .	PER O O O O
+BRUSSELS 1996-08-23	LOC O
+venue , date ) :	O O O O O
+BRUSSELS 1996-08-23	LOC O
+STUTTGART , Germany 1996-08-23	LOC O LOC O
+Leading second round	O O O
+unless stated ) :	O O O O
+128 Ian Woosnam 64 64	O PER PER O O
+66 69	O O
+Adrian Warner	PER PER
+BRUSSELS 1996-08-23	LOC O
+BRUSSELS 1996-08-23	LOC O
+Leading results in the Brussels	O O O O MISC
+Women 's discus	O O O
+Women 's 100 metres hurdles	O O O O O
+Men 's 110 metres hurdles	O O O O O
+Women 's 5,000 metres	O O O O
+Men 's 100 metres	O O O O
+Men 's 400 metres hurdles	O O O O O
+Women 's 100 metres	O O O O
+Women 's 1,500 metres	O O O O
+3,000 metres steeplechase	O O O
+Men 's 400 metres	O O O O
+Men 's 200 metres	O O O O
+Women 's 1,000 metres	O O O O
+( world record )	O O O O
+Women 's 200 metres	O O O O
+Women 's 400 metres	O O O O
+Men 's 3,000 metres	O O O O
+Men 's discus	O O O
+Men 's triple jump	O O O O
+Men 's 1,500 metres	O O O O
+Women 's high jump	O O O O
+8 equal .	O O O
+8 equal .	O O O
+Men 's 10,000 metres	O O O O
+record )	O O
+LISBON 1996-08-23	LOC O
+Squad :	O O
+BONN 1996-08-23	LOC O
+Squad :	O O
+ATHENS 1996-08-23	LOC O
+Following are the European soccer	O O O MISC O
+x indicates seeded teams .	O O O O O
+GENEVA 1996-08-23	LOC O
+COLOMBO 1996-08-23	LOC O
+LUANDA 1996-08-23	LOC O
+- - - -	O O O O
+JORNAL DE ANGOLA	ORG ORG ORG
+JOHANNESBURG 1996-08-23	LOC O
+Analysts estimates of major	O O O O
+DAY--COMPANY----PERIOD--CONSENSUS----RANGE-------PVS	O
+ooOOoo	O
+CALGARY 1996-08-23	LOC O
+1996 1995	O O
+Shr C$ 0.04 C$ 0.08	O MISC O MISC O
+Net 1,196 2,232	O O O
+Revs 20,167 18,623	O O O
+6 MONTHS	O O
+Shr C$ 0.12 C$ 0.15	O MISC O MISC O
+Net 3,674 4,271	O O O
+Revs 41,752 35,711	O O O
+OTTAWA 1996-08-23	LOC O
+TORONTO 1996-08-23	LOC O
+-- Chicago newsdesk , 312-408-8787	O LOC O O O
+WASHINGTON 1996-08-23	LOC O
+MIAMI 1996-08-23	LOC O
+LONDON 1996-08-23	LOC O
+LATEST FIXTURES	O O
+- ASIA PACIFIC	O LOC LOC
+- MED / BLACK SEA	O LOC O LOC LOC
+- UK / CONT	O LOC O O
+- WESTERN HEMISPHERE	O LOC LOC
+------------------------------------------------------------	O
+- MIDDAY FIXTURES	O O O
+- ASIA / PACIFIC	O LOC O LOC
+- MED / BLACK SEA	O LOC O LOC LOC
+Saeed Anwar not out 116	PER PER O O O
+Ijaz Ahmed not out 58	PER PER O O O
+Extras 9	O O
+Fall of wicket - 1-106	O O O O O
+England 326 all out	LOC O O O
+SYDNEY 1996-08-23	LOC O
+-- Sydney Newsroom 61-2 9373-1800	O ORG ORG O O
+Ori Lewis	PER PER
+TAIBE , Israel 1996-08-23	LOC O LOC O
+DUBLIN 1996-08-23	LOC O
+GENEVA 1996-08-23	LOC O
+LAGOS 1996-08-23	LOC O
+NAIROBI 1996-08-23	LOC O
+ZAGREB 1996-08-23	LOC O
+BUDAPEST 1996-08-23	LOC O
+Gross foreign debt 27,535.5 27,246.5	O O O O O
+International reserves and	O O O
+other foreign assets 13,256.5 12,855.7	O O O O O
+Net foreign debt 14,278.9 14,390.7	O O O O O
+Net foreign debt of the	O O O O O
+government and NBH 9,510.9 10,056.4	O O ORG O O
+WARSAW 1996-08-23	LOC O
+GROZNY , Russia 1996-08-23	LOC O LOC O
+MOSCOW 1996-08-23	LOC O
+BELGRADE 1996-08-23	LOC O
+QUITO , Ecuador 1996-08-23	LOC O LOC O
+BRASILIA 1996-08-22	LOC O
+HONG KONG 1996-08-23	LOC LOC O
+Rana Sabbagh	PER PER
+AMMAN 1996-08-23	LOC O
+ANKARA 1996-08-23	LOC O
+WASHINGTON 1996-08-23	LOC O
+CHESAPEAKE , Va .	LOC O LOC O
+1996-08-23	O
+WASHINGTON 1996-08-23	LOC O
+Mass .	LOC O
+BOSTON 1996-08-23	LOC O
+FRANKFURT 1996-08-23	LOC O
+Lufthanseat .	ORG O
+FORECAST-	O
+TODAY ...	O O
+TONIGHT ...	O O
+TOMORROW ...	O O
+OUTLOOK ...	O O
+Temperatures near normal .	O O O O
+Source : Weather Services Corporation	O O ORG ORG ORG
+COLOMBO 1996-08-23	LOC O
+KATHMANDU 1996-08-23	LOC O
+KATHMANDU 1996-08-23	LOC O
+LONDON 1996-08-23	LOC O
+LONDON 1996-08-23	LOC O
+EXERCISE PERIOD 02.SEP.96-21.NOV.97 PAYDATE 30.AUG.96	O O O O O
+SPOT REFERENCE 24.90 DEM	O O O MISC
+LONDON 1996-08-23	LOC O
+Jordan expels Iraqi diplomat .	LOC O MISC O O
+AMMAN 1996-08-23	LOC O
+The government declined comment .	O O O O O
+DOHUK , Iraq 1996-08-23	LOC O LOC O
+BEIRUT 1996-08-23	LOC O
+Susan Nadeau	PER PER
+CHICAGO 1996-08-22	LOC O
+WASHINGTON 1996-08-22	LOC O
+Martin Wolk	PER PER
+SEATTLE 1996-08-22	LOC O
+WASHINGTON 1996-08-22	LOC O
+Wis .	LOC O
+CHICAGO 1996-08-22	LOC O
+Tommy Thompson said Thursday .	PER PER O O O
+-- Karen Pierog , 312-408-8647	O PER PER O O
+ANCHORAGE , Alaska 1996-08-22	LOC O LOC O
+Sgt .	O O
+Jail better . '	O O O O
+"	O
+Steve Barnes	PER PER
+LITTLE ROCK , Ark .	LOC LOC O LOC O
+1996-08-22	O
+Reuters Chicago Newsdesk - 312-408-8787	ORG ORG ORG O O
+SAN MATEO , Calif. 1996-08-23	LOC LOC O LOC O
+Terms were not disclosed .	O O O O O
+NEW YORK 1996-08-23	LOC LOC O
+AMSTERDAM 1996-08-23	LOC O
+Boskalis upgrades 1996 outlook .	ORG O O O O
+[ CORRECTED 13:12 GMT ]	O O O MISC O
+PAPENDRECHT , Netherlands 1996-08-23	LOC O LOC O
+ATHENS 1996-08-23	LOC O
+VALLETTA 1996-08-23	LOC O
+FRANKFURT 1996-08-23	LOC O
+Six months to June 30	O O O O O
+also covers snap FAT8222	O O O O
+Revenue from long-distance passenger	O O O O
+traffic 2,500 up 6.4 pct	O O O O O
+LONDON 1996-08-22	LOC O
+CANBERRA 1996-08-23	LOC O
+-- Sydney Newsroom 61-2 373-1800	O ORG ORG O O
+MELBOURNE 1996-08-23	LOC O
+SYDNEY 1996-08-23	LOC O
+SEOUL 1996-08-23	LOC O
+SEOUL 1996-08-23	LOC O
+TOKYO 1996-08-23	LOC O
+LATEST ACTUAL	O O
+( Group ) FORECAST YEAR-AGO	O O O O O
+Sales 8.70 8.67	O O O
+Net nil loss 447 mln	O O O O O
+TOKYO 1996-08-23	LOC O
+Sales 8.67 vs 9.33	O O O O
+Diluted EPS - vs -	O O O O O
+Lynne O'Donnell	PER PER
+HONG KONG 1996-08-23	LOC LOC O
+HONG KONG 1996-08-23	LOC LOC O
+Year ended March 31	O O O O
+Exceptional items nil	O O O
+Net 56.06	O O
+Turnover 531.52	O O
+Books close N / A	O O O O O
+Dividend payable N / A	O O O O O
+TOKYO 1996-08-23	LOC O
+SHANGHAI 1996-08-23	LOC O
+Turnover 115.259 vs 123.157	O O O O
+Net profit 20.318 vs 22.828	O O O O O
+PARIS 1996-08-23	LOC O
+DUBLIN 1996-08-23	LOC O
+IRISH INDEPENDENT	ORG ORG
+IRISH TIMES	ORG ORG
+SHANGHAI 1996-08-24	LOC O
+COMMACK , New York 1996-08-24	LOC O LOC LOC O
+Results from the	O O O
+number denotes seeding ) :	O O O O O
+Semifinals :	O O
+7-5 7-5	O O
+( 7-0 ) 6-3	O O O O
+CARLSBAD , Calif. 1996-08-24	LOC O LOC O
+Semifinals :	O O
+JYVASKYLA , Finland 1996-08-24	LOC O LOC O
+said the 37-year-old veteran .	O O O O O
+SPA-FRANCORCHAMPS , Belgium 1996-08-24	LOC O LOC O
+Grid positions	O O
+qualifying on Saturday :	O O O O
+Add grid :	O O O
+JYVASKYLA , Finland 1996-08-24	LOC O LOC O
+CARLSBAD , California 1996-08-24	LOC O LOC O
+Results from the	O O O
+number denotes seeding ) :	O O O O O
+Quarterfinals :	O O
+( Slovakia ) 6-3 6-3	O LOC O O O
+6-4 6-1	O O
+COMMACK , New York 1996-08-23	LOC O LOC LOC O
+Results from the	O O O
+denotes seeding ) :	O O O O
+Quarterfinals :	O O
+( 7-4 ) 6-2	O O O O
+( 7-4 ) 4-6 6-3	O O O O O
+6-2 6-3	O O
+AKRON , Ohio 1996-08-23	LOC O LOC O
+AKRON , Ohio 1996-08-23	LOC O LOC O
+Scores from the $ 2.1	O O O O O
+0 Steve Jones through 7	O PER PER O O
+0 Davis Love through 5	O PER PER O O
++1 Fred Couples through 15	O PER PER O O
++1 Fred Funk through 9	O PER PER O O
++1 Scott Hoch through 9	O PER PER O O
++2 D.A. Weibring through 12	O PER PER O O
++2 Clarence Rose through 9	O PER PER O O
++2 Duffy Waldorf through 4	O PER PER O O
++3 Jim Furyk through 16	O PER PER O O
++3 Corey Pavin through 14	O PER PER O O
++3 Craig Stadler through 14	O PER PER O O
++3 Brad Bryant through 12	O PER PER O O
++3 Tom Lehman through 11	O PER PER O O
++4 Willie Wood through 17	O PER PER O O
++5 Mark O'Meara through 15	O PER PER O O
++5 Loren Roberts through 9	O PER PER O O
++6 Scott McCarron 76 70	O PER PER O O
++7 Paul Stankowski through 15	O PER PER O O
++9 Tom Watson 79 70	O PER PER O O
+LONDON 1996-08-24	LOC O
+Results of European Super League	O O MISC MISC MISC
+Paris 14 Bradford 27	ORG O ORG O
+Wigan 78 Workington 4	ORG O ORG O
+LONDON 1996-08-24	LOC O
+LONDON 1996-08-24	LOC O
+Saturday :	O O
+Younis 4-95 )	PER O O
+Salim Malik not out 2	PER PER O O O
+Asif Mujtaba not out 1	PER PER O O O
+Mohammad Akam	PER PER
+LONDON 1996-08-24	LOC O
+Final day	O O
+Somerset 9 points ,	ORG O O O
+Durham 8 .	ORG O O
+Third day	O O
+Essex 532-8	ORG O
+M. Alleyne 4-80 ) .	PER PER O O O
+No play - rain .	O O O O O
+Hampshire 81-7 .	ORG O O
+42-3 .	O O
+Surrey 128-4	ORG O
+Lancashire 323	ORG O
+GLASGOW 1996-08-24	LOC O
+Results of Scottish league soccer	O O MISC O O
+matches on Saturday :	O O O O
+Premier division	O O
+Hibernian 0 Dunfermline 0	ORG O ORG O
+Kilmarnock 1 Celtic 3	ORG O ORG O
+Raith 0 Motherwell 3	ORG O ORG O
+Rangers 1 Dundee United 0	ORG O ORG ORG O
+Playing Sunday :	O O O
+Aberdeen v Hearts	ORG O ORG
+Division one	O O
+Airdrieonians 0 East Fife 0	ORG O ORG ORG O
+Clydebank 1 Stirling 0	ORG O ORG O
+Dundee 2 Greenock Morton 1	ORG O ORG ORG O
+Falkirk 1 Partick 0	ORG O ORG O
+Division two	O O
+Berwick 0 Stenhousemuir 6	ORG O ORG O
+Brechin 1 Ayr 1	ORG O ORG O
+Hamilton 2 Clyde 0	ORG O ORG O
+Stranraer 1 Livingston 2	ORG O ORG O
+Division three	O O
+Alloa 1 Arbroath 1	ORG O ORG O
+Cowdenbeath 1 Monstrose 0	ORG O ORG O
+Forfar 3 Inverness 1	ORG O ORG O
+Played Friday :	O O O
+East Stirling 0 Albion 1	ORG ORG O ORG O
+LONDON 1996-08-24	LOC O
+LONDON 1996-08-24	LOC O
+Results of English league soccer	O O MISC O O
+matches on Saturday :	O O O O
+Premier league	O O
+Aston Villa 2 Derby 0	ORG ORG O ORG O
+Chelsea 2 Coventry 0	ORG O ORG O
+Leicester 0 Arsenal 2	ORG O ORG O
+Liverpool 0 Sunderland 0	ORG O ORG O
+Newcastle 1 Sheffield Wednesday 2	ORG O ORG ORG O
+Nottingham Forest 1 Middlesbrough 1	ORG ORG O ORG O
+Tottenham 0 Everton 0	ORG O ORG O
+West Ham 2 Southampton 1	ORG ORG O ORG O
+Playing Sunday :	O O O
+Manchester United v Blackburn	ORG ORG O ORG
+Playing Monday :	O O O
+Leeds v Wimbledon	ORG O ORG
+Division one	O O
+Bolton 3 Norwich 1	ORG O ORG O
+Charlton 1 West Bromwich 1	ORG O ORG ORG O
+Crystal Palace 3 Oldham 1	ORG ORG O ORG O
+Ipswich 5 Reading 2	ORG O ORG O
+Oxford 5 Southend 0	ORG O ORG O
+Sheffield United 4 Birmingham 4	ORG ORG O ORG O
+Stoke 2 Manchester City 1	ORG O ORG ORG O
+Swindon 1 Port Vale 1	ORG O ORG ORG O
+Wolverhampton 1 Bradford 0	ORG O ORG O
+Played Friday :	O O O
+Tranmere 3 Grimsby 2	ORG O ORG O
+Playing Sunday :	O O O
+Barnsley v Huddersfield	ORG O ORG
+Division two	O O
+Brentford 3 Luton 2	ORG O ORG O
+Burnley 2 Walsall 1	ORG O ORG O
+Chesterfield 1 Bury 2	ORG O ORG O
+Peterborough 2 Crewe 2	ORG O ORG O
+Preston 0 Bristol Rovers 0	ORG O ORG ORG O
+Rotherham 1 Shrewsbury 2	ORG O ORG O
+Stockport 0 Notts County 0	ORG O ORG ORG O
+Watford 0 Millwall 2	ORG O ORG O
+Wrexham 4 Plymouth 4	ORG O ORG O
+Wycombe 1 Gillingham 1	ORG O ORG O
+York 1 Bournemouth 2	ORG O ORG O
+Division three	O O
+Barnet 1 Wigan 1	ORG O ORG O
+Cardiff 1 Brighton 0	ORG O ORG O
+Carlisle 0 Hull 0	ORG O ORG O
+Chester 1 Cambridge 1	ORG O ORG O
+Darlington 4 Swansea 1	ORG O ORG O
+Exeter 2 Scarborough 2	ORG O ORG O
+Hartlepool 2 Fulham 1	ORG O ORG O
+Hereford 1 Doncaster 0	ORG O ORG O
+Lincoln 1 Leyton Orient 1	ORG O ORG ORG O
+Northampton 3 Mansfield 0	ORG O ORG O
+Rochdale 0 Colchester 0	ORG O ORG O
+Scunthorpe 1 Torquay 0	ORG O ORG O
+Add Division two	O O O
+Bristol City 0 Blackpool 1	ORG ORG O ORG O
+LONDON 1996-08-24	LOC O
+Waqar Younis 4-95 ) .	PER PER O O O
+TORONTO 1996-08-23	LOC O
+Results from the Canadian Open	O O O MISC MISC
+Quarterfinals	O
+( Sweden ) 7-5 6-2	O LOC O O O
+7-6 ( 7-4 ) 6-1	O O O O O
+( Australia ) 7-5 6-4	O LOC O O O
+PRETORIA , South Africa 1996-08-24	LOC O LOC LOC O
+PRETORIA , South Africa 1996-08-24	LOC O LOC LOC O
+Scorers :	O O
+Conversion : Stranksy .	O O PER O
+BELGRADE 1996-08-24	LOC O
+Results of Yugoslav league	O O MISC O
+Division A	O O
+Cukaricki 0 Hajduk 2	ORG O ORG O
+Becej 2 Borac 0	ORG O ORG O
+Division B	O O
+Sutjeska 3 Sloboda 2	ORG O ORG O
+Loznica 0 Obilic 1	ORG O ORG O
+Standings :	O O
+WARSAW 1996-08-24	LOC O
+Results of Polish first division	O O MISC O O
+soccer matches on Saturday :	O O O O O
+MANILA 1996-08-24	LOC O
+SEOUL 1996-08-24	LOC O
+Results of South Korean	O O MISC MISC
+Samsung 13 Hyundai 3	ORG O ORG O
+Haitai 5 Hanwha 4	ORG O ORG O
+OB 4 Lotte 2	ORG O ORG O
+Ssangbangwool 1 LG 0	ORG O ORG O
+W D L PCT GB	O O O O O
+NEW YORK 1996-08-24	LOC LOC O
+Major League Baseball	MISC MISC MISC
+AMERICAN LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+BALTIMORE 67 60 .528 6	ORG O O O O
+BOSTON 64 65 .496 10	ORG O O O O
+TORONTO 60 69 .465 14	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+CLEVELAND 76 52 .594 -	ORG O O O O
+CHICAGO 69 61 .531 8	ORG O O O O
+MINNESOTA 64 64 .500 12	ORG O O O O
+WESTERN DIVISION	MISC MISC
+TEXAS 74 55 .574 -	ORG O O O O
+SEATTLE 66 61 .520 7	ORG O O O O
+OAKLAND 62 69 .473 13	ORG O O O O
+SATURDAY , AUGUST 24TH SCHEDULE	O O O O O
+SEATTLE AT BOSTON	ORG O LOC
+MILWAUKEE AT CLEVELAND	ORG O LOC
+CALIFORNIA AT BALTIMORE	ORG O LOC
+TORONTO AT CHICAGO	ORG O LOC
+OAKLAND AT NEW YORK	ORG O LOC LOC
+DETROIT AT KANSAS CITY	ORG O LOC LOC
+TEXAS AT MINNESOTA	ORG O LOC
+NATIONAL LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+ATLANTA 80 47 .630 -	ORG O O O O
+MONTREAL 69 58 .543 11	ORG O O O O
+FLORIDA 59 70 .457 22	ORG O O O O
+PHILADELPHIA 53 76 .411 28	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+HOUSTON 68 61 .527 1/2	ORG O O O O
+CHICAGO 63 63 .500 4	ORG O O O O
+PITTSBURGH 55 73 .430 13	ORG O O O O
+WESTERN DIVISION	MISC MISC
+SATURDAY , AUGUST 24TH SCHEDULE	O O O O O
+CHICAGO AT ATLANTA	ORG O LOC
+ST LOUIS AT HOUSTON	ORG ORG O LOC
+NEW YORK AT LOS ANGELES	ORG ORG O LOC LOC
+MONTREAL AT SAN FRANCISCO	ORG O LOC LOC
+CINCINNATI AT FLORIDA	ORG O LOC
+PITTSBURGH AT COLORADO	ORG O LOC
+PHILADELPHIA AT SAN DIEGO	ORG O LOC LOC
+NEW YORK 1996-08-24	LOC LOC O
+Results of Major League	O O MISC MISC
+American League	MISC MISC
+BOSTON 6 Seattle 4	ORG O ORG O
+California 2 BALTIMORE 0	ORG O ORG O
+NEW YORK 5 Oakland 3	ORG ORG O ORG O
+Toronto 4 CHICAGO 2	ORG O ORG O
+Detroit 3 KANSAS CITY 2	ORG O ORG ORG O
+MINNESOTA 9 Texas 2	ORG O ORG O
+National League	MISC MISC
+ATLANTA 4 Chicago 3	ORG O ORG O
+St Louis 1 HOUSTON 0	ORG ORG O ORG O
+Pittsburgh 5 COLORADO 3	ORG O ORG O
+Philadelphia 7 SAN DIEGO 4	ORG O ORG ORG O
+Montreal 10 SAN FRANCISCO 8	ORG O ORG ORG O
+LISBON 1996-08-24	LOC O
+Result of a Portuguese first	O O O MISC O
+Belenenses 2 Boavista 4	ORG O ORG O
+AMSTERDAM 1996-08-24	LOC O
+BRUSSELS 1996-08-24	LOC O
+Results of Belgian first	O O MISC O
+division matches on Saturday :	O O O O O
+Standard Liege 3 Molenbeek 0	ORG ORG O ORG O
+Anderlecht 2 Lokeren 2	ORG O ORG O
+Cercle Brugge 2 Mouscron 2	ORG ORG O ORG O
+Antwerp 1 Lommel 4	ORG O ORG O
+Ghent 3 Aalst 2	ORG O ORG O
+Lierse 4 Charleroi 0	ORG O ORG O
+Sint Truiden 3 Ekeren 1	ORG ORG O ORG O
+PARIS 1996-08-24	LOC O
+Leading goalscorers in the French	O O O O MISC
+PARIS 1996-08-24	LOC O
+Summaries of French first division	O O MISC O O
+matches on Saturday :	O O O O
+Halftime 0-0 .	O O O
+Attendance 16,000 .	O O O
+1-0 .	O O
+6,000 .	O O
+( Guivarc'h 60th pen .	O PER O O O
+) 0-0 .	O O O
+6,000 .	O O
+Bordeaux 0 Auxerre 0 .	ORG O ORG O O
+30,000 .	O O
+69th ) .	O O O
+1-0 .	O O
+20,000 .	O O
+0-0 .	O O
+15,000	O
+0-0 .	O O
+9,000 .	O O
+2-1 .	O O
+7,000 .	O O
+0-1 .	O O
+10,000 .	O O
+Played on Friday :	O O O O
+15,000 .	O O
+PARIS 1996-08-24	LOC O
+Standings in the French soccer	O O O MISC O
+PARIS 1996-08-24	LOC O
+Results of French first division	O O MISC O O
+matches on Saturday :	O O O O
+Nantes 0 Lens 1	ORG O ORG O
+Nice 1 Bastia 1	ORG O ORG O
+Lille 3 Rennes 1	ORG O ORG O
+Bordeaux 0 Auxerre 0	ORG O ORG O
+Marseille 1 Metz 2	ORG O ORG O
+Strasbourg 1 Le Havre 0	ORG O ORG ORG O
+Caen 1 Lyon 1	ORG O ORG O
+Guingamp 2 Monaco 1	ORG O ORG O
+Montpellier 0 Cannes 1	ORG O ORG O
+Played on Friday :	O O O O
+AMSTERDAM 1996-08-24	LOC O
+Result of Dutch first division	O O MISC O O
+Heerenveen 2 Ajax Amsterdam 0	ORG O ORG ORG O
+BONN 1996-08-24	LOC O
+Summaries of German first division	O O MISC O O
+matches played on Saturday :	O O O O O
+Halftime 0-0 .	O O O
+Attendance 25,000	O O
+1-2 .	O O
+20,000	O
+68th ) .	O O O
+0-0 .	O O
+32,000	O
+1-0 .	O O
+50,000	O
+0-0 .	O O
+18,000	O
+86th , 90th ) .	O O O O O
+0-1 .	O O
+22,500	O
+BONN 1996-08-24	LOC O
+Results of German first division	O O MISC O O
+Bochum 1 Arminia Bielefeld 1	ORG O ORG ORG O
+Borussia Moenchengladbach 1 Karlsruhe 3	ORG ORG O ORG O
+Stuttgart 2 Werder Bremen 1	ORG O ORG ORG O
+Freiburg 1 Cologne 3	ORG O ORG O
+Played on Saturday :	O O O O
+St Pauli 4 Schalke 4	ORG ORG O ORG O
+Hansa Rostock 0 Hamburg 1	ORG ORG O ORG O
+VIENNA 1996-08-24	LOC O
+Results of Austria first division	O O LOC O O
+GAK 2 Austria Vienna 2	ORG O ORG ORG O
+COLOMBO 1996-08-24	LOC O
+LONDON 1996-08-24	LOC O
+LONDON 1996-08-24	LOC O
+Salim Malik not out 2	PER PER O O O
+Asif Mujtaba not out 1	PER PER O O O
+Extras 18	O O
+England 326 all out	LOC O O O
+TRIPOLI , Lebanon 1996-08-24	LOC O LOC O
+Attendance : 10,000 .	O O O O
+PEMBERTON , British Columbia 1996-08-24	LOC O LOC LOC O
+LAGOS 1996-05-28	LOC O
+BLANTYRE 1996-08-24	LOC O
+Emelia Sithole	PER PER
+HARARE 1996-08-24	LOC O
+KIGALI 1996-08-24	LOC O
+JOHANNESBURG 1996-08-24	LOC O
+KHARTOUM 1996-08-24	LOC O
+TIRANA 1996-08-24	LOC O
+MANAGUA , Nicaragua 1996-08-23	LOC O LOC O
+BEIJING 1996-08-24	LOC O
+It gave no details .	O O O O O
+TEHRAN 1996-08-24	LOC O
+TUNIS 1996-08-24	LOC O
+NICOSIA 1996-08-24	LOC O
+NICOSIA 1996-08-24	LOC O
+BAGHDAD 1996-08-24	LOC O
+JUMHOURIYA	ORG
+QADISSIYA	ORG
+IRAQ	LOC
+BABEL	ORG
+Laurence McQuillan	PER PER
+WASHINGTON 1996-08-24	LOC O
+MIAMI 1996-08-24	LOC O
+PARIS 1996-08-24	LOC O
+BONN 1996-08-24	LOC O
+ORVIETO , Italy 1996-08-24	LOC O LOC O
+VERONA , Italy 1996-08-24	LOC O LOC O
+Jeremy Lovell	PER PER
+BRUSSELS 1996-08-24	LOC O
+PARIS 1996-08-24	LOC O
+VALLETTA 1996-08-24	LOC O
+VIENNA 1996-08-24	LOC O
+MADRID 1996-08-24	LOC O
+ISLAMABAD 1996-08-24	LOC O
+MOUNTAIN VIEW , Calif. 1996-08-25	LOC LOC O LOC O
+AKRON , Ohio 1996-08-25	LOC O LOC O
+AKRON , Ohio 1996-08-24	LOC O LOC O
+Scores after the final	O O O O
+67 69	O O
+70 71 74	O O O
+71 73	O O
+69 74	O O
+74 74	O O
+COMMACK , New York 1996-08-24	LOC O LOC LOC O
+Results at the Hamlet	O O O O
+seedings :	O O
+Finals , singles	O O O
+Republic ) 7-5 6-3	LOC O O O
+Finals , doubles	O O O
+CARLSBAD , California 1996-08-25	LOC O LOC O
+Results from the	O O O
+number denotes seeding ) :	O O O O O
+Finals :	O O
+3-6 6-3 6-0 .	O O O O
+JYVASKLYA , Finland 1996-08-25	LOC O LOC O
+Leading positions on	O O O
+eight minutes one second	O O O O
+behind	O
+LANDSKRONA , Sweden 1996-08-25	LOC O LOC O
+Leading results in the	O O O O
+First race	O O
+Second race	O O
+2. Martens	O PER
+3. Theybers	O PER
+Overall on day :	O O O O
+1. Martens 30 points	O PER O O
+2. Shayne King 28	O PER PER O
+3. Smets 27	O PER O
+4. Theybers 25	O PER O
+5. Van Doorn 24	O PER PER O
+6. Johansson 17	O PER O
+1. Shayne King 323 points	O PER PER O O
+2. Smets 290	O PER O
+3. Johansson 236	O PER O
+4. Lacher 219	O PER O
+6. Van Doorn 176	O PER PER O
+HOLZGERLINGEN , Germany 1996-08-25	LOC O LOC O
+Leading results in	O O O
+First race	O O
+Second race	O O
+1. Tortelli	O PER
+2. Moore	O PER
+6. Camerlengo	O PER
+Overall on day :	O O O O
+1. Tortelli 40 points	O PER O O
+2. Moore 34	O PER O
+3. Seguy 24	O PER O
+4. Vialle 22	O PER O
+5. Camerlengo 20	O PER O
+6. Belometti 19	O PER O
+Final world championship standings :	O O O O O
+1. Tortelli 432 points	O PER O O
+3. Vialle 293	O PER O
+4. Seguy 192	O PER O
+6. Dugmore 152	O PER O
+SUZUKA , Japan 1996-08-25	LOC O LOC O
+Leading placings in	O O O
+International Endurance GT championship :	MISC MISC MISC MISC O
+Ferrari F40 170 laps	MISC MISC O O
+McLaren FI GTR 169	MISC MISC MISC O
+F1 GTR 168	MISC MISC O
+Muller McLaren F1 GTR 167	MISC MISC MISC MISC O
+GTR	MISC
+167	O
+Marcos LM600 162	MISC MISC MISC
+2. Eichmann , Ruch 116	O PER O PER O
+3. Bscher 112	O PER O
+6. Owen-Jones , Raphanel 82	O PER O PER O
+SHEFFIELD , England 1996-08-25	LOC O LOC O
+Leading results at an	O O O O
+international meeting on Sunday :	O O O O O
+Women 's triple jump	O O O O
+Women 's 400 metres hurdles	O O O O O
+Women 's javelin	O O O
+Women 's 200 metres	O O O O
+100 metres hurdles	O O O
+Women 's 800 metres	O O O O
+Men 's pole vault	O O O O
+Men 's javelin	O O O
+Women 's 400 metres	O O O O
+Men 's 200 metres	O O O O
+Men 's high jump	O O O O
+Men 's 800 metres	O O O O
+Men 's mile	O O O
+Men 's 400 metres	O O O O
+Men 's 100 metres	O O O O
+SPA-FRANCORCHAMPS , Belgium 1996-08-25	LOC O LOC O
+Result of	O O
+behind	O
+Did not finish :	O O O O
+SPA-FRANCOCHAMPS 1996-08-25	LOC O
+Michael Schumacher of	PER PER O
+race on Sunday .	O O O O
+15 equal .	O O O
+15 equal .	O O O
+Constructors ' championship :	O O O O
+1. Williams 149 points	O ORG O O
+2. Benetton 55	O ORG O
+3. Ferrari 48	O ORG O
+4. McLaren 41	O ORG O
+5. Jordan 15	O ORG O
+6. Ligier 14	O ORG O
+7. Sauber 10	O ORG O
+8. Tyrrell 5	O ORG O
+9. Footwork 1	O O O
+JYVASKYLA , Finland 1996-08-25	LOC O LOC O
+Leading positions	O O
+52 seconds	O O
+behind	O
+SUGO , Japan 1996-08-25	LOC O LOC O
+Leading results from round	O O O O
+First race	O O
+Second race	O O
+2. Kocinski 38:19.313	O PER O
+3. Haga 38:32.040	O PER O
+4. Slight 38:32.149	O PER O
+5. Fogarty 38:32.719	O PER O
+6. Fujiwara 38:33.595	O PER O
+7. Ryo 38:34.682	O PER O
+8. Takeishi 38:34.999	O PER O
+9. Yoshikawa 38:35.297	O PER O
+10. Corser 38:42.015	O PER O
+1. Slight 280 points	O PER O O
+2. Corser 269	O PER O
+3. Kocinski 254	O PER O
+4. Fogarty 236	O PER O
+9. Yoshikawa 107	O PER O
+part :	O O
+2. Kocinski 38:19.313	O PER O
+3. Slight 38:32.149	O PER O
+4. Fogarty 38:32.719	O PER O
+5. Fujiwara 38:33.595	O PER O
+6. Ryo 38:34.682	O PER O
+7. Takeishi 38:34.999	O PER O
+8. Yoshikawa 38:35.297	O PER O
+9. Corser 38:42.015	O PER O
+1. Slight 283 points	O PER O O
+2. Corser 270	O PER O
+3. Kocinski 254	O PER O
+4. Fogarty 238	O PER O
+9. Yoshikawa 108	O PER O
+SUGO , Japan 1996-08-25	LOC O LOC O
+LONDON 1996-08-25	LOC O
+Results of European Super League	O O MISC MISC MISC
+Halifax 64 Leeds 24	ORG O ORG O
+London 56 Castleford 0	ORG O ORG O
+Standings :	O O
+LONDON 1996-08-25	LOC O
+LONDON 1996-08-25	LOC O
+LONDON 1996-08-25	LOC O
+LONDON 1996-08-25	LOC O
+Summary of an English premier	O O O MISC O
+Halftime 1-1 .	O O O
+Attendance 54,178 .	O O O
+LONDON 1996-08-25	LOC O
+Results of English league soccer	O O MISC O O
+matches on Sunday :	O O O O
+Premier league	O O
+Manchester United 2 Blackburn 2	ORG ORG O ORG O
+Division one	O O
+Barnsley 3 Huddersfield 1	ORG O ORG O
+Standings :	O O
+LONDON 1996-08-25	LOC O
+Oval on Sunday :	LOC O O O
+Younis 4-95 )	PER O O
+Salim Malik not out 100	PER PER O O O
+Asif Mujtaba run out 13	PER PER O O O
+Moin Khan b Salisbury 23	PER PER O PER O
+Waqar Younis not out 0	PER PER O O O
+8-519	O
+England second innings	LOC O O
+M. Atherton not out 26	PER PER O O O
+A. Stewart not out 40	PER PER O O O
+Extras ( nb-8 ) 8	O O O O O
+LONDON 1996-08-25	LOC O
+Pakistan declared their first	LOC O O O
+GLASGOW 1996-08-25	LOC O
+Result of a Scottish premier	O O O MISC O
+Aberdeen 4 Hearts 0	ORG O ORG O
+LONDON 1996-08-25	LOC O
+LONDON 1996-08-25	LOC O
+LONDON 1996-08-25	LOC O
+TORONTO 1996-08-25	LOC O
+Results from the Canadian Open	O O O MISC MISC
+Final	O
+( Australia ) 6-2 6-4	O LOC O O O
+TORONTO 1996-08-24	LOC O
+Results from the Canadian Open	O O O MISC MISC
+seedings ) :	O O O
+Semifinals	O
+4-6 6-3 7-5	O O O
+6-3	O
+LOME 1996-08-25	LOC O
+qualifying match on Sunday .	O O O O O
+Attendance : 18,000	O O O
+ADDIS ABABA 1996-08-25	LOC LOC O
+Ethiopia and Uganda drew 1-1	LOC O LOC O O
+Attendance : 25,000	O O O
+Aggregate 2-2 .	O O O
+Ethiopia won 4-2 penalties .	LOC O O O O
+BELGRADE 1996-08-25	LOC O
+Results of Yugoslav league	O O MISC O
+Division A	O O
+Vojvodina 1 Partizan 1	ORG O ORG O
+Crvena zvezda 3 Proleter 1	ORG ORG O ORG O
+Division B	O O
+Zelesnik 0 Rudar 1	ORG O ORG O
+WARSAW 1996-08-25	LOC O
+Leading goalscorers in the Polish	O O O O MISC
+Krzysztof Zagorski ( Odra )	PER PER O ORG O
+BUCHAREST 1996-08-25	LOC O
+Results of first division	O O O O
+WARSAW 1996-08-25	LOC O
+Results of Polish first division	O O MISC O O
+MOSCOW 1996-08-25	LOC O
+Results of Russian premier league	O O MISC O O
+matches played on Saturday :	O O O O O
+If more than one	O O O O
+MELBOURNE 1996-08-25	LOC O
+Results of Australian Rules	O O MISC MISC
+Played Sunday :	O O O
+9 ( 153 )	O O O O
+West Coast 24 .	ORG ORG O O
+6 ( 36 )	O O O O
+Played Saturday :	O O O
+St Kilda 9 .	ORG ORG O O
+8 ( 80 )	O O O O
+Played Friday :	O O O
+SYDNEY 1996-08-25	LOC O
+Played Sunday :	O O O
+Illawarra 42 Penrith 2	ORG O ORG O
+Manly 42 Western Suburbs 12	ORG O ORG ORG O
+Played Saturday :	O O O
+Parramatta 14 Sydney Tigers 26	ORG O ORG ORG O
+Newcastle 24 Western Reds 20	ORG O ORG ORG O
+Played Friday :	O O O
+Canberra 30 Auckland 6	ORG O ORG O
+KUALA LUMPUR 1996-08-25	LOC LOC O
+Results of finals in the	O O O O O
+denote seedings ) :	O O O O
+Men 's singles	O O O
+15-1 15-7	O O
+Women 's singles	O O O
+Women 's doubles	O O O
+Men 's doubles	O O O
+SEOUL 1996-08-25	LOC O
+Results of South Korean	O O MISC MISC
+Haitai 10 Hanwha 4	ORG O ORG O
+Hyundai 5 Samsung 4	ORG O ORG O
+Ssangbangwool 4 LG 1	ORG O ORG O
+OB 1 Lotte 1	ORG O PER O
+Lotte 1 OB 0*	PER O ORG O
+W D L PCT GB	O O O O O
+NEW YORK 1996-08-25	LOC LOC O
+Results of Major League	O O MISC MISC
+American League	MISC MISC
+BOSTON 8 Seattle 5	ORG O ORG O
+CLEVELAND 8 Milwaukee 5	ORG O ORG O
+California 13 BALTIMORE 0	ORG O ORG O
+Oakland 6 NEW YORK 4	ORG O ORG ORG O
+Texas 13 MINNESOTA 2	ORG O ORG O
+Detroit 7 KANSAS CITY 4	ORG O ORG ORG O
+NEW YORK 1996-08-25	LOC LOC O
+Major League Baseball	MISC MISC MISC
+AMERICAN LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+BALTIMORE 68 60 .531 6	ORG O O O O
+BOSTON 65 65 .500 10	ORG O O O O
+TORONTO 61 69 .469 14	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+CLEVELAND 76 53 .589 -	ORG O O O O
+CHICAGO 69 62 .527 8	ORG O O O O
+MINNESOTA 65 64 .504 11	ORG O O O O
+WESTERN DIVISION	MISC MISC
+TEXAS 74 56 .569 -	ORG O O O O
+SEATTLE 66 62 .516 7	ORG O O O O
+OAKLAND 62 70 .470 13	ORG O O O O
+SUNDAY , AUGUST 25TH SCHEDULE	O O O O O
+SEATTLE AT BOSTON	ORG O LOC
+MILWAUKEE AT CLEVELAND	ORG O LOC
+CALIFORNIA AT BALTIMORE	ORG O LOC
+OAKLAND AT NEW YORK	ORG O LOC LOC
+TORONTO AT CHICAGO	ORG O LOC
+TEXAS AT MINNESOTA	ORG O LOC
+DETROIT AT KANSAS CITY	ORG O LOC LOC
+NATIONAL LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+ATLANTA 81 47 .633 -	ORG O O O O
+MONTREAL 70 58 .547 11	ORG O O O O
+FLORIDA 60 70 .462 22	ORG O O O O
+PHILADELPHIA 53 77 .408 29	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+HOUSTON 69 61 .531 -	ORG O O O O
+CINCINNATI 64 64 .500 4	ORG O O O O
+WESTERN DIVISION	MISC MISC
+SUNDAY , AUGUST 25TH SCHEDULE	O O O O O
+CHICAGO AT ATLANTA	ORG O LOC
+PITTSBURGH AT COLORADO	ORG O LOC
+NEW YORK AT LOS ANGELES	ORG ORG O LOC LOC
+PHILADELPHIA AT SAN DIEGO	ORG O LOC LOC
+MONTREAL AT SAN FRANCISCO	ORG O LOC LOC
+CINCINNATI AT FLORIDA	ORG O LOC
+ST LOUIS AT HOUSTON	ORG ORG O LOC
+BALTIMORE 1996-08-25	LOC O
+ATLANTA 1996-08-25	LOC O
+NEW YORK 1996-08-25	LOC LOC O
+Results of Major League	O O MISC MISC
+National League	MISC MISC
+ATLANTA 6 Chicago 5	ORG O ORG O
+HOUSTON 3 St Louis 1	ORG O ORG ORG O
+Montreal 3 SAN FRANCISCO 0	ORG O ORG ORG O
+FLORIDA 5 Cincinnati 3	ORG O ORG O
+COLORADO 9 Pittsburgh 3	ORG O ORG O
+SAN DIEGO 7 Philadelphia 1	ORG ORG O ORG O
+American League	MISC MISC
+BOSTON 9 Seattle 5	ORG O ORG O
+BALTIMORE 5 California 4	ORG O ORG O
+Toronto 9 CHICAGO 2	ORG O ORG O
+NEW YORK 5 Oakland 4	ORG ORG O ORG O
+KANSAS CITY 9 Detroit 2	ORG ORG O ORG O
+MINNESOTA 6 Texas 5	ORG O ORG O
+LISBON 1996-08-25	LOC O
+LISBON 1996-08-25	LOC O
+Results of Portuguese first	O O MISC O
+FC Porto 2 Setubal 2	ORG ORG O ORG O
+Benfica 1 Braga 1	ORG O ORG O
+Guimaraes 4 Gil Vicente 2	ORG O ORG ORG O
+MILAN 1996-08-25	LOC O
+MILAN 1996-08-25	LOC O
+Italian Cup winners Fiorentina beat	MISC MISC O ORG O
+Scorers :	O O
+Attendance : 29,582	O O O
+OSLO 1996-08-25	LOC O
+Results of Norwegian elite division	O O MISC O O
+Tromso 2 Kongsvinger 1	ORG O ORG O
+Valerenga 3 Skeid 0	ORG O ORG O
+Stabaek 4 Stromsgodset 0	ORG O ORG O
+Viking 1 Moss 0	ORG O ORG O
+Brann 7 Start 1	ORG O ORG O
+Rosenborg 7 Lillestrom 2	ORG O ORG O
+BONN 1996-08-25	LOC O
+Summary of German first division	O O MISC O O
+match played on Sunday :	O O O O O
+Halftime 0-2 .	O O O
+Attendance : 30,000 .	O O O O
+BONN 1996-08-25	LOC O
+Result of German first division	O O MISC O O
+soccer match on Sunday :	O O O O O
+GENEVA 1996-08-25	LOC O
+Results of Swiss premier division	O O MISC O O
+Aarau 1 Young Boys 0	ORG O ORG ORG O
+Grasshopper 2 Lucerne 2	ORG O ORG O
+Lugano 1 Basle 1	ORG O ORG O
+Neuchatel 3 St Gallen 0	ORG O ORG ORG O
+Sion 3 Servette 1	ORG O ORG O
+STUTTGART , Germany 1996-08-25	LOC O LOC O
+Leading prize money	O O O
+unless stated ) :	O O O O
+2. Colin Montgomerie 429,449	O PER PER O
+3. Lee Westwood 301,972	O PER PER O
+7. Andrew Coltart 246,077	O PER PER O
+9. Raymond Russell 229,360	O PER PER O
+13. Paul Lawrie 207,990	O PER PER O
+16. Jonathan Lomas 181,005	O PER PER O
+17. Paul Broadhurst 172,580	O PER PER O
+18. Peter Mitchell 170,952	O PER PER O
+19. Jim Payne 165,150	O PER PER O
+20. Russell Claydon 156,996	O PER PER O
+ZURICH 1996-08-25	LOC O
+Leading results in the 232-km	O O O O O
+1. Museeuw 162 points	O PER O O
+2. Ferrigato 112	O PER O
+3. Bartoli 108	O PER O
+5. Armstrong 81	O PER O
+6. Baldato 77	O PER O
+ZURICH 1996-08-25	LOC O
+STUTTGART , Germany 1996-08-25	LOC O LOC O
+Briton Ian Woosnam won	MISC PER PER O
+AMSTERDAM 1996-08-25	LOC O
+BRUSSELS 1996-08-25	LOC O
+Results of Belgian first	O O MISC O
+Genk 1 Club Brugge 1	ORG O ORG ORG O
+Harelbeke 3 Mechelen 3	ORG O ORG O
+Standard Liege 3 Molenbeek 0	ORG ORG O ORG O
+Anderlecht 2 Lokeren 2	ORG O ORG O
+Cercle Brugge 2 Mouscron 2	ORG ORG O ORG O
+Antwerp 1 Lommel 4	ORG O ORG O
+Ghent 3 Aalst 2	ORG O ORG O
+Lierse 4 Charleroi 0	ORG O ORG O
+Sint Truiden 3 Ekeren 1	ORG ORG O ORG O
+AMSTERDAM 1996-08-25	LOC O
+Summary of Dutch first division	O O MISC O O
+soccer played on Sunday :	O O O O O
+Volendam 0 .	ORG O O
+Halftime 2-0 .	O O O
+Attendance not given .	O O O O
+Attendance not given .	O O O O
+Halftime 0-0 .	O O O
+Attendance 7,032 .	O O O
+28th ) .	O O O
+Halftime 1-1 .	O O O
+Attendance not given .	O O O O
+Halftime 1-1 .	O O O
+Attendance 27,500	O O
+Played on Saturday :	O O O O
+Halftime	O
+1-1 .	O O
+Attendance 7,000	O O
+Halftime	O
+0-0 .	O O
+Attendance 7,250 .	O O O
+Haldtime 0-0 .	O O O
+Attendance 11,500 .	O O O
+0. Halftime 0-0 .	O O O O
+Attendance 13,500 .	O O O
+AMSTERDAM 1996-08-25	LOC O
+Result of Dutch first division	O O MISC O O
+Feyenoord Rotterdam 3 Volendam 0	ORG ORG O ORG O
+Vitesse Arnhem 1 Utrecht 0	ORG ORG O ORG O
+PSV Eindhoven 4 Groningen 1	ORG ORG O ORG O
+Played on Saturday :	O O O O
+Heerenveen 2 Ajax Amsterdam 0	ORG O ORG ORG O
+AMSTERDAM 1996-08-25	LOC O
+NEW DELHI 1996-08-25	LOC LOC O
+SYDNEY 1996-08-26	LOC O
+-- Sydney Newsroom 61-2 9373-1800	O ORG ORG O O
+'	O
+'	O
+'	O
+'	O
+MELBOURNE 1996-08-26	LOC O
+Played Sunday :	O O O
+9 ( 153 )	O O O O
+West Coast 24 .	ORG ORG O O
+6 ( 36 )	O O O O
+Played Saturday :	O O O
+St Kilda 9 .	ORG ORG O O
+8 ( 80 )	O O O O
+Played Friday :	O O O
+-- Sydney Newsroom 61-2 9373-1800	O ORG ORG O O
+SYDNEY 1996-08-26	LOC O
+Played Sunday :	O O O
+Illawarra 42 Penrith 2	ORG O ORG O
+Manly 42 Western Suburbs 12	ORG O ORG ORG O
+Played Saturday :	O O O
+Parramatta 14 Sydney Tigers 26	ORG O ORG ORG O
+Newcastle 24 Western Reds 20	ORG O ORG ORG O
+Played Friday :	O O O
+Canberra 30 Auckland 6	ORG O ORG O
+-- Sydney Newsroom 61-2 9373-1800	O ORG ORG O O
+Anton Ferreira	PER PER
+CAPE TOWN 1996-08-25	LOC LOC O
+Samir Arnaut	PER PER
+MATUZICI , Bosnia 1996-08-25	LOC O LOC O
+MOSCOW 1996-08-25	LOC O
+SHATOI , Russia 1996-08-25	LOC O LOC O
+MEXICO CITY 1996-08-25	LOC LOC O
+BOGOTA , Colombia 1996-08-25	LOC O LOC O
+WELLINGTON 1996-08-26	LOC O
+Year to June 30 .	O O O O O
+Net profit 9.050 vs 6.03	O O O O O
+MAE SOT , Thailand 1996-08-25	LOC LOC O LOC O
+JERUSALEM 1996-08-25	LOC O
+CAIRO 1996-08-25	LOC O
+DUBAI 1996-08-25	LOC O
+AMMAN 1996-08-25	LOC O
+JORDAN TIMES	ORG ORG
+AL RAI	ORG ORG
+AD DUSTOUR	ORG ORG
+AL ASWAQ	ORG ORG
+JERUSALEM 1996-08-25	LOC O
+JERUSALEM 1996-08-25	LOC O
+HAARETZ	ORG
+YEDIOTH AHRONOTH	ORG ORG
+MAARIV	ORG
+JERUSALEM POST	ORG ORG
+TRIPOLI , Lebanon 1996-08-25	LOC O LOC O
+JERUSALEM 1996-08-25	LOC O
+Anne Murray	PER PER
+NEW YORK 1996-08-23	LOC LOC O
+"	O
+Geert de Clercq	PER PER PER
+NEUFCHATEAU , Belgium 1996-08-25	LOC O LOC O
+BREGANCON , France 1996-08-25	LOC O LOC O
+MUZAFFARABAD , Pakistan 1996-08-25	LOC O LOC O
+ISLAMABAD 1996-08-25	LOC O
+It did not elaborate .	O O O O O
+Anis Ahmed	PER PER
+DHAKA 1996-08-25	LOC O
+MUZAFFARABAD , Pakistan 1996-08-25	LOC O LOC O
+Irene Marushko	PER PER
+Melanie Cheary	PER PER
+JOHANNESBURG 1996-08-26	LOC O
+SAN DIEGO 1996-08-26	LOC LOC O
+NEW YORK 1996-08-26	LOC LOC O
+ST HELENS , England 1996-08-26	LOC LOC O LOC O
+Bradford finished third .	ORG O O O
+JYVASKLYA , Finland 1996-08-26	LOC O LOC O
+Result of the 1,000	O O O MISC
+13 seconds	O O
+JYVASKYLA , Finland 1996-08-26	LOC O LOC O
+JYVASKYLA , Finland 1996-08-26	LOC O LOC O
+LEEDS , England 1996-08-26	LOC O LOC O
+LONDON 1996-08-26	LOC O
+Summary of Monday 's English	O O O O MISC
+premier league soccer match :	O O O O O
+Halftime 0-0 .	O O O
+Attendance 25,860 .	O O O
+LONDON 1996-08-26	LOC O
+Result of an English premier	O O O MISC O
+Leeds 1 Wimbledon 0	ORG O ORG O
+LONDON 1996-08-26	LOC O
+Wasim Akram 's three-wicket haul	PER PER O O O
+the feat .	O O O
+LONDON 1996-08-26	LOC O
+English County Championship	MISC MISC MISC
+LONDON 1996-08-26	LOC O
+64 runs .	O O O
+N. Williams 5-43 ) .	PER PER O O O
+Essex 24 points ,	ORG O O O
+Gloucestershire 3 .	ORG O O
+forfeited .	O O
+Sussex 389 and 112 .	ORG O O O O
+Northamptonshire 361 and 142-4 .	ORG O O O O
+Surrey 128-4 declared	ORG O O
+Warwickshire 310 and 162-4	ORG O O O
+declared .	O O
+Worcestershire 8 points ,	ORG O O O
+Warwickshire 10 .	ORG O O
+Yorkshire 529-8 declared	ORG O O
+Leicestershire 353 .	ORG O O
+Hampshire 137	ORG O
+Leicestershire 11 points , Hampshire	ORG O O O ORG
+7.	O
+LONDON 1996-08-26	LOC O
+LONDON 1996-08-26	LOC O
+Monday :	O O
+Younis 4-95 )	PER O O
+I. Salisbury not out 0	PER PER O O O
+Total 242	O O
+8-238 9-242	O O
+10-3-30-0	O
+Pakistan second innings	LOC O O
+Aamir Sohail not out 29	PER PER O O O
+Ijaz Ahmed not out 13	PER PER O O O
+Extras ( nb-5 ) 5	O O O O O
+Fall of wicket : 1-7	O O O O O
+Pakistan win series 2-0	LOC O O O
+LONDON 1996-08-26	LOC O
+LONDON 1996-08-26	LOC O
+St Helens 66 Warrington 14	ORG ORG O ORG O
+LONDON 1996-08-26	LOC O
+English and Scottish league soccer	MISC O MISC O O
+Friday , August 30 :	O O O O O
+Saturday , August 31 :	O O O O O
+Swindon .	ORG O
+Chester .	ORG O
+v Stranraer .	O ORG O
+Sunday , September 1 :	O O O O O
+LIBERIA , Costa Rica 1996-08-26	LOC O LOC LOC O
+Costa Rica and Chile	LOC LOC O LOC
+Sunday .	O O
+Scorers :	O O
+Attendance : 8,000	O O O
+Mark Gleeson	PER PER
+JOHANNESBURG 1996-08-26	LOC O
+JOHANNESBURG 1996-08-26	LOC O
+Ethiopia 1 Uganda 1	LOC O LOC O
+2-2 on aggregate .	O O O O
+Ethiopia win 4-2 on penalties	LOC O O O O
+Namibia 6 Botswana 0	LOC O LOC O
+Namibia win 6-0 on aggregate	LOC O O O O
+Seychelles 1 Mauritius 1	LOC O LOC O
+Mauritius win 2-1 on aggregate	LOC O O O O
+Togo 1 Congo 0	LOC O LOC O
+Togo win 1-0 on aggregaete	LOC O O O O
+KIEV 1996-08-26	LOC O
+Results of Ukraine premier division	O O LOC O O
+MOSCOW 1996-08-26	LOC O
+BRATISLAVA 1996-08-26	LOC O
+Results of Slovak first	O O MISC O
+BUDAPEST 1996-08-26	LOC O
+Hungarian first division	MISC O O
+Stadler 0 Haladas 0	ORG O ORG O
+MTK 3 Ferencvaros 0	ORG O ORG O
+Bekescsaba 0 BVSC 1	ORG O ORG O
+Csepel 1 Videoton(* ) 1	ORG O ORG O O
+ZTE 1 Debrecen 5	ORG O ORG O
+Siofok 0 Ujpest 2	ORG O ORG O
+Vac 0 Vasas 1	ORG O ORG O
+Kispest 3 Pecs 1	ORG O ORG O
+PRAGUE 1996-08-26	LOC O
+MEXICO CITY 1996-08-26	LOC LOC O
+Results of weekend matches	O O O O
+Atlante 1 Atlas 1	ORG O ORG O
+Cruz Azul 2 Leon 2	ORG ORG O ORG O
+Guadalajara 5 America 0	ORG O ORG O
+Monterrey 2 Veracruz 1	ORG O ORG O
+Pachuca 3 Toluca 0	ORG O ORG O
+Puebla 2 UNAM 1	ORG O ORG O
+Santos 2 Morelia 1	ORG O ORG O
+UAG 1 Neza 2	ORG O ORG O
+Group 1	O O
+Group 2	O O
+Group 3	O O
+Group 4	O O
+Brian Homewood	PER PER
+RIO DE JANEIRO 1996-08-26	LOC LOC LOC O
+BUENOS AIRES 1996-08-26	LOC LOC O
+Results of matches on the	O O O O O
+Estudiantes 2 Boca Juniors 3	ORG O ORG ORG O
+Gimnasia-Jujuy 1 Platense 0	ORG O ORG O
+Huracan 0 Lanus 0	ORG O ORG O
+Huracan-Corrientes 3 Union 6	ORG O ORG O
+San Lorenzo 0 Banfield 1	ORG ORG O ORG O
+in the Argentine season .	O O MISC O O
+tournament .	O O
+TEGUCIGALPA 1996-08-26	LOC O
+Honduras beat Cuba 4-0	LOC O LOC O
+RIO DE JANEIRO 1996-08-26	LOC LOC LOC O
+Results of Brazilian	O O MISC
+Bahia 1 Botafogo 2	ORG O ORG O
+Cricuma 4 Fluminense 1	ORG O ORG O
+Cruzeiro 2 Flamengo 1	ORG O ORG O
+Goias 0 Palmeiras 0	ORG O ORG O
+Gremio 2 Vitoria 2	ORG O ORG O
+Juventude 2 Internacional 1	ORG O ORG O
+Parana 3 Guarani 0	ORG O ORG O
+Portuguesa 3 Atletico Mineiro 1	ORG O ORG ORG O
+Sao Paulo 2 Santos 1	ORG ORG O ORG O
+Sport Recife 3 Coritiba 0	ORG ORG O ORG O
+If	O
+number of games won .	O O O O O
+MANILA 1996-08-26	LOC O
+SEOUL 1996-08-26	LOC O
+Results of South Korean pro-soccer	O O MISC MISC O
+games played on Sunday .	O O O O O
+SEOUL 1996-08-26	LOC O
+Results of South Korean	O O MISC MISC
+OB 2 Lotte 1	ORG O ORG O
+Hanwha 3 Haitai 2	ORG O ORG O
+Hyundai 8 Samsung 1	ORG O ORG O
+Ssangbangwool 3 LG 1	ORG O ORG O
+W D L PCT GB	O O O O O
+RABAT 1996-08-26	LOC O
+Results of Moroccan first division	O O MISC O O
+Widad Fes 3 Oujda 1	ORG ORG O ORG O
+Raja Casablanca 4 Tetouan 0	ORG ORG O ORG O
+Sporting Sale 0 Meknes 1	ORG ORG O ORG O
+Settat 1 Marrakesh 0	ORG O ORG O
+Khouribga 3 Mohammedia 0	ORG O ORG O
+Bill Berkrot	PER PER
+NEW YORK 1996-08-26	LOC LOC O
+Make that $ 16.50 .	O O O O O
+Larry Fine	PER PER
+NEW YORK 1996-08-26	LOC LOC O
+Richard Finn	PER PER
+NEW YORK 1996-08-26	LOC LOC O
+NEW YORK 1996-08-26	LOC LOC O
+Women 's singles	O O O
+Men 's singles	O O O
+Women 's singles	O O O
+Women 's singles	O O O
+Men 's singles	O O O
+Men 's singles	O O O
+Women 's singles	O O O
+Men 's singles	O O O
+Women 's singles	O O O
+Men 's singles	O O O
+Women 's singles	O O O
+ATLANTA 1996-08-25	LOC O
+Mike Piazza	PER PER
+NEW YORK 1996-08-25	LOC LOC O
+Major League Baseball	MISC MISC MISC
+AMERICAN LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+BALTIMORE 68 61 .527 6	ORG O O O O
+BOSTON 66 65 .504 9	ORG O O O O
+TORONTO 61 70 .466 14	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+CLEVELAND 77 53 .592 -	ORG O O O O
+CHICAGO 70 62 .530 8	ORG O O O O
+MINNESOTA 65 65 .500 12	ORG O O O O
+WESTERN DIVISION	MISC MISC
+TEXAS 75 56 .573 -	ORG O O O O
+SEATTLE 66 63 .512 8	ORG O O O O
+OAKLAND 63 70 .474 13	ORG O O O O
+MONDAY , AUGUST 26TH SCHEDULE	O O O O O
+CLEVELAND AT DETROIT	ORG O LOC
+OAKLAND AT BALTIMORE	ORG O LOC
+MINNESOTA AT TORONTO	ORG O LOC
+MILWAUKEE AT CHICAGO	ORG O LOC
+BOSTON AT CALIFORNIA	ORG O LOC
+NEW YORK AT SEATTLE	ORG ORG O LOC
+NATIONAL LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+ATLANTA 81 48 .628 -	ORG O O O O
+MONTREAL 70 59 .543 11	ORG O O O O
+FLORIDA 61 70 .466 21	ORG O O O O
+PHILADELPHIA 53 78 .405 29	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+HOUSTON 70 61 .534 -	ORG O O O O
+CINCINNATI 64 65 .496 5	ORG O O O O
+WESTERN DIVISION	MISC MISC
+MONDAY , AUGUST 26TH SCHEDULE	O O O O O
+PHILADELPHIA AT SAN FRANCISCO	ORG O LOC LOC
+ST LOUIS AT HOUSTON	ORG ORG O LOC
+CINCINNATI AT COLORADO	ORG O LOC
+SAN FRANCISCO 1996-08-25	LOC LOC O
+ROTTERDAM 1996-08-26	LOC O
+Squad :	O O
+BARCELONA 1996-08-26	LOC O
+Scorers :	O O
+Attendance 30,000	O O
+VIENNA 1996-08-26	LOC O
+Result of an Austrian first	O O O MISC O
+COLOMBO 1996-08-26	LOC O
+COLOMBO 1996-08-26	LOC O
+Scoreboard in the Singer World	O O O MISC MISC
+Zimbabwe on Monday :	LOC O O O
+Australia	LOC
+S. Law b Streak 20	PER PER O PER O
+I. Healy b Brandes 5	PER PER O PER O
+B. Hogg not out 11	PER PER O O O
+Decker 3-0-17-0 , Shah 2-0-18-0	PER O O PER O
+Zimbabwe	LOC
+G. Whittall b Reiffel 11	PER PER O PER O
+M. Dekker not out 8	PER PER O O O
+9-120	O
+COLOMBO 1996-08-26	LOC O
+COLOMBO 1996-08-26	LOC O
+Teams :	O O
+MAPUTO 1996-08-26	LOC O
+NOTICIAS	ORG
+[ CORRECTED 18:00 GMT ]	O O O MISC O
+KIRKLAND , Wash .	LOC O LOC O
+1996-08-26	O
+LONDON 1996-08-26	LOC O
+Kurt Schork	PER PER
+SARAJEVO 1996-08-26	LOC O
+" Tomorrow ...	O O O
+. "	O O
+Alastair Macdonald	PER PER
+MOSCOW 1996-08-26	LOC O
+MOSCOW 1996-08-26	LOC O
+BELGRADE 1996-08-26	LOC O
+ZAGREB 1996-08-26	LOC O
+SOFIA 1996-08-26	LOC O
+MOSCOW 1996-08-26	LOC O
+WARSAW 1996-08-26	LOC O
+Col .	LOC O
+MEXICO CITY 1996-08-26	LOC LOC O
+MEXICO CITY 1996-08-26	LOC LOC O
+BOGOTA 1996-08-26	LOC O
+BRASILIA 1996-08-26	LOC O
+MANAGUA , Nicaragua 1996-08-26	LOC O LOC O
+MARACAIBO , Venezuela 1996-08-26	LOC O LOC O
+MEXICO CITY 1996-08-26	LOC LOC O
+AMOUNT TERM	O O
+1.206 bln 9 days	O O O O
+1.206 bln 3 days	O O O O
+1.000 bln 1 day	O O O O
+Col .	LOC O
+MELBOURNE 1996-08-26	LOC O
+-- Sydney Newsroom 61-2 373-1800	O ORG ORG O O
+Police capture Auckland gunman .	O O LOC O O
+AUCKLAND 1996-08-27	LOC O
+WELLINGTON 1996-08-27	LOC O
+SINGAPORE 1996-08-26	LOC O
+SINGAPORE 1996-08-26	LOC O
+JAKARTA 1996-08-26	LOC O
+DUBAI 1996-08-26	LOC O
+LARNACA , Cyprus 1996-08-27	LOC O LOC O
+ANKARA 1996-08-26	LOC O
+CAIRO 1996-08-26	LOC O
+AL-MUNTAR , West Bank 1996-08-26	LOC O LOC LOC O
+--	O
+Lead 3.50-4.00 cents / pound	O O O O O
+--	O
+--	O
+delivered to consumer	O O O
+--	O
+delivered to consumer	O O O
+--	O
+--	O
+ingot 75 cents / pound	O O O O O
+52 cents / pound	O O O O
+50 cents / pound	O O O O
+FORT LAUDERDALE , Fla. 1996-08-26	LOC LOC O LOC O
+CHICAGO 1996-08-26	LOC O
+Sam Nelson 312-408-8721	PER PER O
+WASHINGTON 1996-08-26	LOC O
+CHICAGO 1996-08-26	LOC O
+-- Bob Janis 312-983-7347--	O PER PER O
+Michael Posner	PER PER
+CHICAGO 1996-08-26	LOC O
+Gore said .	PER O O
+CHICAGO 1996-08-26	LOC O
+Richard Gephardt and Sen .	PER PER O O O
+Thomas Daschle .	PER PER O
+DALLAS 1996-08-26	LOC O
+KARACHI , Pakistan 1996-08-26	LOC O LOC O
+-- Karachi newsroom 9221-5685192	O LOC O O
+LONDON 1996-08-26	LOC O
+WINNIPEG 1996-08-26	LOC O
+North Battleford , Sask .	LOC LOC O LOC O
+CLEVELAND 1996-08-26	LOC O
+-- Cleveland Newsdesk 216-579-0077	O ORG ORG O
+NEW YORK 1996-08-26	LOC LOC O
+1ST CPN : 05/01/97	O O O O
+CALL : Non-Callable NIC	O O O O
+1998 575,000	O O
+1999 610,000	O O
+2000 650,000	O O
+2001 685,000	O O
+2002 730,000	O O
+STATE OF OHIO	LOC LOC LOC
+RE : $ 70,375,000	O O O O
+( OHIO BUILDING AUTHORITY )	O ORG ORG ORG O
+STATE FACILITIES REFUNDING BONDS	O O O O
+1996 SERIES A	O O O
+9,215,000.00	O
+OCASEK GOVERNMENT OFFICE BUILDING	O O O O
+( C )	O O O
+CONFIRMED CONFIRMED	O O
+Delivery Date : 08/29/1996	O O O O
+Maturity Balance Coupon List	O O O O
+6,045,000.00	O
+VERN RIFFE CENTER	O O O
+( D )	O O O
+CONFIRMED CONFIRMED	O O
+Delivery Date : 08/29/1996	O O O O
+Maturity Balance Coupon List	O O O O
+Grand Total : 290M	O O O O
+Banc One Capital Corporation	ORG ORG ORG ORG
+S.B.K- Brooks Investment Corp .	ORG ORG ORG ORG O
+Seasongood & Mayer	ORG ORG ORG
+WASHINGTON 1996-08-26	LOC O
+CHILLICOTHE , Ohio 1996-08-25	LOC O LOC O
+AMSTERDAM 1996-08-26	LOC O
+PARIS 1996-08-26	LOC O
+PARIS 1996-08-26	LOC O
+AMSTERDAM 1996-08-26	LOC O
+PARIS 1996-08-26	LOC O
+FRONT PAGE	O O
+BUSINESS PAGES	O O
+HELSINKI 1996-08-26	LOC O
+BRUSSELS	LOC
+BANGKOK 1996-08-26	LOC O
+TOKYO 1996-08-26	LOC O
+LATEST PREVIOUS ACTUAL	O O O
+Sales 3.30 3.17 2.75	O O O O
+MANILA 1996-08-26	LOC O
+Buyers Sellers Last Prev	O O O O
+JulAug 775 787.50 unq unq	O O O O O
+AugSep 752.50 758.75 unq unq	O O O O O
+SepOct 733.75 743.50 unq unq	O O O O O
+OctNov unq 740 unq unq	O O O O O
+NovDec unq 732.50 unq unq	O O O O O
+TOKYO 1996-08-26	LOC O
+TUNIS 1996-08-26	LOC O
+LA PRESSE	ORG ORG
+LE TEMPS	ORG ORG
+MANAMA 1996-08-26	LOC O
+BEIRUT 1996-08-26	LOC O
+AN-NAHAR	ORG
+- The surprise ...	O O O O
+AS-SAFIR	ORG
+AL-ANWAR	ORG
+AD-DIYAR	ORG
+NIDA'A AL-WATAN	ORG ORG
+VALLETTA 1996-08-26	LOC O
+THE TIMES	ORG ORG
+IN-NAZZJON	LOC
+L-ORIZZONT	LOC
+GENEVA 1996-08-26	LOC O
+Leonard Santorelli	PER PER
+LONDON 1996-08-27	LOC O
+CURRENCIES	O
+STOCK MARKETS	O O
+PRECIOUS METALS	O O
+STANSTED , England 1996-08-27	LOC O LOC O
+Edna Fernandes	PER PER
+LONDON 1996-08-27	LOC O
+LONDON 1996-08-26	LOC O
+*	O
+*	O
+ANNEX	O
+ANNEX I	O O
+ANNEX A	O O
+JAKARTA 1996-08-27	LOC O
+NORTHAMPTON , England 1996-08-27	LOC O LOC O
+BELCHATOW , Poland 1996-08-27	LOC O LOC O
+Poland and Cyprus drew	LOC O LOC O
+Tuesday .	O O
+Scorers :	O O
+( 57th )	O O O
+Attendance 3,000	O O
+KIRKCALDY , Scotland 1996-08-27	LOC O LOC O
+KIMBERLEY , South Africa 1996-08-27	LOC O LOC LOC O
+Griqualand West	LOC LOC
+tour maltch on Tuesday .	O O O O O
+Scorers :	O O
+Conversion : Boeta Wessels .	O O PER PER O
+Penalties : Wessels 2 .	O O PER O O
+Conversion :	O O
+Jon Preston .	PER PER O
+Penalties : Preston 2 .	O O PER O O
+MANCHESTER , England 1996-08-27	LOC O LOC O
+LONDON 1996-08-27	LOC O
+English league soccer standings	MISC O O O
+Division one	O O
+Divisionn two	O O
+Division three	O O
+LONDON 1996-08-27	LOC O
+Results of English league soccer	O O MISC O O
+matches on Tuesday :	O O O O
+Division one	O O
+Ipswich 1 Grimsby 1	ORG O ORG O
+Oxford 0 Norwich 1	ORG O ORG O
+Portsmouth 1 Southend 0	ORG O ORG O
+Tranmere 2 Port Vale 0	ORG O ORG ORG O
+Huddersfield	ORG
+Division two	O O
+Brentford 2 Gillingham 0	ORG O ORG O
+Bristol City 5 Luton 0	ORG ORG O ORG O
+Burnley 1 Shrewsbury 3	ORG O ORG O
+Chesterfield 1 Walsall 0	ORG O ORG O
+Preston 2 Crewe 1	ORG O ORG O
+Rotherham 1 Blackpool 2	ORG O ORG O
+Stockport 0 Bournemouth 1	ORG O ORG O
+Watford 0 Plymouth 2	ORG O ORG O
+Wycombe 0 Bury 1	ORG O ORG O
+York 3 Millwall 2	ORG O ORG O
+Rovers	ORG
+Division three	O O
+Barnet 3 Brighton 0	ORG O ORG O
+Cardiff 0 Wigan 2	ORG O ORG O
+Carlisle 1 Leyton Orient 0	ORG O ORG ORG O
+Chester 2 Swansea 0	ORG O ORG O
+Darlington 1 Colchester 1	ORG O ORG O
+Exeter 1 Doncaster 1	ORG O ORG O
+Hartlepool 2 Mansfield 2	ORG O ORG O
+Hereford 0 Hull 1	ORG O ORG O
+Lincoln 1 Cambridge 1	ORG O ORG O
+Northampton 1 Torquay 1	ORG O ORG O
+Rochdale 1 Fulham 2	ORG O ORG O
+Scunthorpe 0 Scarborough 2	ORG O ORG O
+LONDON 1996-08-27	LOC O
+England and Pakistan Test averages	LOC O LOC O O
+England	LOC
+average ) :	O O O
+Pakistan	LOC
+Batting :	O O
+Bowling :	O O
+LONDON 1996-08-27	LOC O
+BUCHAREST 1996-08-27	LOC O
+HONG KONG 1996-08-27	LOC LOC O
+15-6	O
+13-15 17-14 15-12	O O O
+15-6 15-12	O O
+17-16 17-16	O O
+15-4 12-15 15-14	O O O
+15-14 15-9	O O
+15-12 15-10 15-3	O O O
+10-15 15-5 15-11	O O O
+Larry Fine	PER PER
+NEW YORK 1996-08-27	LOC LOC O
+NEW YORK 1996-08-27	LOC LOC O
+Women 's singles	O O O
+Men 's singles	O O O
+Men 's singles	O O O
+Women 's singles	O O O
+Men 's singles	O O O
+Women 's singles	O O O
+Men 's singles	O O O
+Women 's singles	O O O
+Men 's singles	O O O
+- 2 6-4 6-4	O O O O
+6 6-2 6-4	O O O
+- 4 7-5	O O O
+4-6 6-4	O O
+Women 's singles	O O O
+Republic ) 6-4 6-1	LOC O O O
+- 4	O O
+5 ) 6-1	O O O
+Women 's singles	O O O
+7-6 ( 7-4 ) 7-5	O O O O O
+6-1 7-5	O O
+Men 's singles	O O O
+Men 's singles	O O O
+6-1 7-5	O O
+6-1	O
+6-4 6-4 6-3	O O O
+Women 's singles	O O O
+Women 's singles	O O O
+Men 's singles	O O O
+NEW YORK 1996-08-27	LOC LOC O
+Major League Baseball	MISC MISC MISC
+AMERICAN LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+BALTIMORE 69 61 .531 5	ORG O O O O
+BOSTON 67 65 .508 8	ORG O O O O
+TORONTO 62 70 .470 13	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+CLEVELAND 78 53 .595 -	ORG O O O O
+CHICAGO 70 63 .526 9	ORG O O O O
+MINNESOTA 65 66 .496 13	ORG O O O O
+WESTERN DIVISION	MISC MISC
+TEXAS 75 56 .573 -	ORG O O O O
+CALIFORNIA 61 70 .466 14	ORG O O O O
+TUESDAY , AUGUST 27TH SCHEDULE	O O O O O
+CLEVELAND AT DETROIT	ORG O LOC
+OAKLAND AT BALTIMORE	ORG O LOC
+MINNESOTA AT TORONTO	ORG O LOC
+MILWAUKEE AT CHICAGO	ORG O LOC
+TEXAS AT KANSAS CITY	ORG O LOC LOC
+BOSTON AT CALIFORNIA	ORG O LOC
+NEW YORK AT SEATTLE	ORG ORG O LOC
+NATIONAL LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+ATLANTA 81 48 .628 -	ORG O O O O
+MONTREAL 70 59 .543 11	ORG O O O O
+FLORIDA 61 70 .466 21	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+HOUSTON 70 62 .530 -	ORG O O O O
+CHICAGO 64 64 .500 4	ORG O O O O
+CINCINNATI 64 66 .492 5	ORG O O O O
+PITTSBURGH 55 75 .423 14	ORG O O O O
+WESTERN DIVISION	MISC MISC
+COLORADO 69 63 .523 3	ORG O O O O
+TUESDAY , AUGUST 27TH SCHEDULE	O O O O O
+PHILADELPHIA AT SAN FRANCISCO	ORG O LOC LOC
+LOS ANGELES AT MONTREAL	ORG ORG O LOC
+ATLANTA AT PITTSBURGH	ORG O LOC
+SAN DIEGO AT NEW YORK	ORG ORG O LOC LOC
+CHICAGO AT HOUSTON	ORG O LOC
+FLORIDA AT ST LOUIS	ORG O LOC LOC
+CINCINNATI AT COLORADO	ORG O LOC
+SAN FRANCISCO 1996-08-27	LOC LOC O
+BALTIMORE 1996-08-27	LOC O
+NEW YORK	LOC LOC
+American League	MISC MISC
+Cleveland 2 DETROIT 1	ORG O ORG O
+TORONTO 5 Minnesota 3	ORG O ORG O
+Milwaukee 3 CHICAGO 2	ORG O ORG O
+Boston 4 CALIFORNIA 1	ORG O ORG O
+SEATTLE 2 New York 1	ORG O ORG ORG O
+National League	MISC MISC
+SAN FRANCISCO 1 Philadelphia 0	ORG ORG O ORG O
+St Louis 3 HOUSTON 2	ORG ORG O ORG O
+COLORADO 9 Cincinnati 5	ORG O ORG O
+Larry Fine	PER PER
+NEW YORK 1996-08-26	LOC LOC O
+PARIS 1996-08-27	LOC O
+Auxerre 0 Marseille 0 .	ORG O ORG O O
+Attendance : 20,000	O O O
+PARIS 1996-08-27	LOC O
+PARIS 1996-08-27	LOC O
+Auxerre 0 Marseille 0	ORG O ORG O
+BONN 1996-08-27	LOC O
+Summaries of Bundesliga matches	O O MISC O
+played on Tuesday :	O O O O
+Halftime	O
+2-0 .	O O
+Attendance 48,800 .	O O O
+Hagner 85th ) .	PER O O O
+0-1 .	O O
+31,139 .	O O
+1-0 .	O O
+24,800 .	O O
+1-0 .	O O
+33,230 .	O O
+BONN 1996-08-27	LOC O
+Results of Bundesliga matches	O O MISC O
+played on Tuesday :	O O O O
+Borussia Dortmund 3 Freiburg 1	ORG ORG O ORG O
+Hamburg 0 VfB Stuttgart 4	ORG O ORG ORG O
+Schalke 1 Bochum 1	ORG O ORG O
+AMSTERDAM 1996-08-27	LOC O
+Dutch first division summary on	MISC O O O O
+Tuesday :	O O
+Halftime 2-2 .	O O O
+AMSTERDAM 1996-08-27	LOC O
+Result of a Dutch first	O O O MISC O
+Fortuna Sittard 2 Heerenveen 4	ORG ORG O ORG O
+HELSINKI 1996-08-27	LOC O
+Finland beat the Czech Republic	LOC O O LOC LOC
+Scorers :	O O
+GENEVA 1996-08-27	LOC O
+MILAN 1996-08-27	LOC O
+HAARLEM , Netherlands 1996-08-27	LOC O LOC O
+2. McEwen 0:04 seconds behind	O PER O O O
+3. Koerts 0:06	O PER O
+10. Teutenberg 0:10	O PER O
+Emese Bartha	PER PER
+BUDAPEST 1996-08-27	LOC O
+PRAGUE 1996-08-27	LOC O
+ISSUE Min .	O O O
+Price Max .	O O O
+Price Volume Turnover	O O O
+AVIA 290.00 290.00 700 203.000	ORG O O O O
+EMKAM 25.00 25.00 34684 867.100	ORG O O O O
+METROSTAV 3024.95 3024.95 3000 9074.850	ORG O O O O
+MORAV.CHEMIC. ZAV .	ORG ORG O
+637.50 637.50 1626 1036.575	O O O O
+OKD 111.50 112.56 95975 10752.092	ORG O O O O
+RIF 900.00 900.00 5500 4950.000	ORG O O O O
+SELIKO 4000.00 20000.00 3565 32607.500	ORG O O O O
+TABAK 6700.00 6700.00 1000 6700.000	ORG O O O O
+-- Prague Newsroom , 42-2-2423-0003	O ORG ORG O O
+NEW YORK 1996-08-27	LOC LOC O
+CHICAGO 1996-08-27	LOC O
+ELIZABETH , N.J. 1996-08-27	LOC O LOC O
+DUBLIN 1996-08-27	LOC O
+-- Dublin Newsroom +6613377	O ORG ORG O
+PRETORIA 1996-08-27	LOC O
+Peter Smerdon	PER PER
+NAIROBI 1996-08-27	LOC O
+SARAJEVO 1996-08-27	LOC O
+Dmitry Kuznets	PER PER
+NOVYE ATAGI , Russia 1996-08-27	LOC LOC O LOC O
+LJUBLJANA 1996-08-27	LOC O
+BUCHAREST 1996-08-27	LOC O
+Belinda Goldsmith	PER PER
+TALLINN 1996-08-27	LOC O
+TALLINN 1996-08-27	LOC O
+TIRANA 1996-08-27	LOC O
+TALLINN 1996-08-27	LOC O
+Peter Laca	PER PER
+BRATISLAVA 1996-08-27	LOC O
+MOSCOW 1996-08-27	LOC O
+MOSCOW 1996-08-27	LOC O
+MOSCOW 1996-08-27	LOC O
+BUENOS AIRES , Argentina 1996-08-27	LOC LOC O LOC O
+SAO PAULO 1996-08-27	PER PER O
+CARACAS 1996-08-27	LOC O
+MANAGUA , Nicaragua 1996-08-27	LOC O LOC O
+SAO PAULO 1996-08-27	PER PER O
+BRASILIA 1996-08-27	LOC O
+BUENOS AIRES 1996-08-26	LOC LOC O
+BEIJING 1996-08-27	LOC O
+JAKARTA 1996-08-27	LOC O
+-- Jakarta newsroom +6221 384-6364	O LOC O O O
+BEIJING 1996-08-27	LOC O
+HONG KONG 1996-08-27	LOC LOC O
+ANKARA 1996-08-27	LOC O
+Leon Barkho	PER PER
+BAGHDAD 1996-08-27	LOC O
+DODGE CITY 1996-08-27	LOC LOC O
+Confirmed - none .	O O O O
+Alan Elsner	PER PER
+CHICAGO 1996-08-27	LOC O
+Rep .	MISC O
+Georgia Rep .	LOC MISC O
+CHICAGO 1996-08-27	LOC O
+MINNESOTA	LOC
+NORTH DAKOTA	LOC LOC
+Hunter	LOC
+( Chicago bureau 312-408-8720 )	O LOC O O O
+NEW YORK 1996-08-27	LOC LOC O
+Moody 's Investors Service -	ORG ORG ORG ORG O
+Bd .	O O
+Revenue	O
+ref .	O O
+( YMCA Proj .	O ORG O O
+) ser . '	O O O O
+96	O
+State : AL	O O LOC
+Sale Amount : 3,390,000	O O O O
+Expected Sale Date : 08/28/96	O O O O O
+U.S. lauds Russian-Chechen deal .	LOC O MISC O O
+WASHINGTON 1996-08-27	LOC O
+Announcement As of 08/26/96 .	O O O O O
+Issuer : Akron	O O ORG
+State : OH	O O LOC
+Rating : A	O O O
+Sale Amount : 6,310,000	O O O O
+Expected Sale Date : 08/28/96	O O O O O
+MIAMI 1996-08-27	LOC O
+CHICAGO 1996-08-27	LOC O
+CHICAGO 1996-08-27	LOC O
+-- Chicago newsdesk 312-408-8720--	O LOC O O
+PHILADELPHIA 1996-08-27	LOC O
+Eau Claire , Wisc .	ORG ORG O LOC LOC
+NEW YORK 1996-08-27	LOC LOC O
+BOSTON 1996-08-27	LOC O
+-- Boston bureau , 617-367-4106	O LOC O O O
+MONTPELIER , Vt .	LOC O LOC O
+1996-08-27	O
+PARIS 1996-08-27	LOC O
+PARIS 1996-08-27	LOC O
+---	O
+VEERAKESARI	ORG
+---	O
+THINAKARAN	ORG
+---	O
+DAILY NEWS	ORG ORG
+---	O
+THE ISLAND	ORG ORG
+---	O
+LANKADEEPA	ORG
+---	O
+DIVAINA	ORG
+---	O
+DINAMINA	ORG
+-- Colombo newsroom tel 941-434319	O LOC O O O
+Rupam Banerjee	PER PER
+CALCUTTA 1996-08-27	LOC O
+ISLAMABAD 1996-08-27	LOC O
+Sayed Salahuddin	PER PER
+KABUL 1996-08-27	LOC O
+KARACHI , Pakistan 1996-08-27	LOC O LOC O
+-- Karachi newsroom 9221-5685192	O LOC O O
+Gopal Sharma	PER PER
+KATHMANDU 1996-08-27	LOC O
+INDORE , India 1996-08-27	LOC O LOC O
+---------------------	O
+Market Arrivals Auction Traders Plant	O O O O O
+( in tonnes )	O O O O
+Black 11,900-12,100	LOC O
+Mandsaur 10 Yellow 12,600-12,750 12,700-12,850	LOC O O O O
+Neemuch n.a Yellow - -	LOC O O O O
+Mhow 2 Yellow 12,700-12,800 12,750-12,850	LOC O O O O
+Ratlam 10 Yellow 12,600-12,750 12,700-12,800	LOC O O O O
+Ashta 10 Yellow 12,700-12,900 12,800-13,000	LOC O O O O
+Indore 25 Yellow 12,750-12,950 12,900-13,100	LOC O O O O
+Dhar 5 Yellow 12,700-12,800 12,750-12,900	LOC O O O O
+Ujjain 8 Yellow 12,750-12,900 12,850-13,050	LOC O O O O
+Jaora n.a Yellow - -	LOC O O O O
+Barnagar n.a Yellow - -	LOC O O O O
+Khandwa n.a Yellow - -	LOC O O O O
+Ashoknagar n.a Yellow - -	LOC O O O O
+Nalkhera n.a Yellow - -	LOC O O O O
+----------------------------------	O
+Soyoil solvent plant delivery 30,300-30,400	O O O O O
+Soyoil solvent market delivery 30,700-30,800	O O O O O
+Soyoil refined plant delivery 32,700-32,800	O O O O O
+Soyoil refined market delivery 32,900-33,000	O O O O O
+--------------------------------	O
+Yellow Black	MISC MISC
+FOR Bombay 9,800 8,800	O MISC O O
+FOR Bedi Bunder 9,800 8,800	O MISC MISC O O
+( $ 1=35.73 rupees )	O O O O O
+DHAKA 1996-08-27	LOC O
+DHAKA 1996-08-27	LOC O
+BANGLADESH 'S MONEY SUPPLY	LOC O O O
+JUNE MAY JUNE 1995	O O O O
+HELSINKI 1996-08-27	LOC O
+Helibor market interest rates	MISC O O O
+Tuesday .	O O
+TORONTO 1996-08-27	LOC O
+ALLENTOWN , Pa .	LOC O LOC O
+1996-08-27	O
+HAARLEM , Netherlands 1996-08-27	LOC O LOC O
+H1 1996 H1 1995	O O O O
+Newspapers 363 49 295 46	O O O O O
+Education 42 6 36 3	O O O O O
+HANOVER , Germany 1996-08-27	LOC O LOC O
+STANSTED , England 1996-08-27	LOC O LOC O
+-- London Newsroom + 00--44-171-542-7947	O ORG ORG O O
+LONDON 1996-08-27	LOC O
+EXERCISE PERIOD 02.SEP.96-06.MAR.97 PAYDATE 30.AUG.96	O O O O O
+SPOT REFERENCE 95.35 PCT	O O O O
+TORONTO 1996-08-27	LOC O
+ANKARA 1996-08-27	LOC O
+CAIRO 1996-08-27	LOC O
+WASHINGTON 1996-08-27	LOC O
+Company Name Transkaryotic Therapies Inc	O O ORG ORG ORG
+Nasdaq Stock symbol TKTX	MISC O O O
+Shrs outstanding after ipo 16,668,560	O O O O O
+MONTPELIER , Vt .	LOC O LOC O
+1996-08-27	O
+CHICAGO 1996-08-26	LOC O
+Brady	PER
+BONN 1996-08-27	LOC O
+41.5 36.4 6.9 7.3 4.4	O O O O O
+STANSTED , England 1996-08-27	LOC O LOC O
+LONDON 1996-08-27	LOC O
+STANSTED , England 1996-08-27	LOC O LOC O
+LONDON 1996-08-27	LOC O
+PERTH , Australia 1996-08-27	LOC O LOC O
+WELLINGTON 1996-08-27	LOC O
+JAKARTA 1996-08-27	LOC O
+SBPUs seven-day 14-day	O O O
+-- Jakarta newsroom +6221 384-6364	O LOC O O O
+SEOUL 1996-08-27	LOC O
+BEIJING 1996-08-27	LOC O
+TOKYO 1996-08-27	LOC O
+TOKYO 1996-08-27	LOC O
+BEIJING 1996-08-27	LOC O
+TAIPEI 1996-08-27	LOC O
+JERUSALEM 1996-08-27	LOC O
+WASHINGTON 1996-08-28	LOC O
+ROME 1996-08-28	LOC O
+LINZ , Austria 1996-08-28	LOC O LOC O
+WINNIPEG 1996-08-28	LOC O
+ROVERETO , Italy 1996-08-28	LOC O LOC O
+Leading results from an	O O O O
+Women 's long jump :	O O O O O
+Women 's 100 metres :	O O O O O
+Men 's javelin :	O O O O
+Men 's 100 metres :	O O O O O
+Men 's 400 metres :	O O O O O
+Women 's pole vault :	O O O O O
+Women 's 800 metres :	O O O O O
+Men 's high jump :	O O O O O
+Men 's 800 metres :	O O O O O
+Women 's javelin :	O O O O
+Men 's 3,000 metres :	O O O O O
+NORTHAMPTON , England 1996-08-28	LOC O LOC O
+Leading completed	O O
+stated ) :	O O O
+68 Colin Montgomerie	O PER PER
+( Sweden )	O LOC O
+MANCHESTER , England 1996-08-28	LOC O LOC O
+ALMERE , Netherlands 1996-08-28	LOC O LOC O
+Leading placings in	O O O
+six seconds .	O O O
+1. Colonna 8:22:00	O PER O
+3. McEwen same time	O PER O O
+4. Teutenberg 4 seconds	O PER O O
+5. Capiot 5	O PER O
+6. Koerts 7	O PER O
+7. Ozers 8	O PER O
+ALMERE , Netherlands 1996-08-28	LOC O LOC O
+1. Colonna 8:22:00	O PER O
+3. McEwen same time	O PER O O
+4. Teutenberg 4 seconds	O PER O O
+5. Capiot 5	O PER O
+6. Koerts 7	O PER O
+7. Ozers 8	O PER O
+MANCHESTER , England 1996-08-28	LOC O LOC O
+Results from the	O O O
+Men 's individual pursuit :	O O O O O
+Selected result from first round	O O O O O
+Jens Lehman ( Germany )	PER PER O LOC O
+Quarter-finals	O
+4:21.715	O
+( Denmark ) 4:24.660	O LOC O O
+4:20.241	O
+one kilometre time-trial final	O O O O
+Keirin final	LOC O
+Martin Ayres	PER PER
+MANCHESTER , England 1996-08-28	LOC O LOC O
+MANCHESTER , England 1996-08-28	LOC O LOC O
+LONDON 1996-08-28	LOC O
+Results of English first division	O O MISC O O
+soccer matches on Wednesday :	O O O O O
+Barnsley 3 Reading 0	ORG O ORG O
+Stoke 1 Bradford 0	ORG O ORG O
+Swindon 1 Oldham 0	ORG O ORG O
+LONDON 1996-08-28	LOC O
+Wednesday :	O O
+L. Botham 5-67 ) .	PER PER O O O
+Hampshire 105-4 .	ORG O O
+LONDON 1996-08-28	LOC O
+LONDON 1996-08-28	LOC O
+LONDON 1996-08-28	LOC O
+I 'm only 34 .	O O O O O
+LONDON 1996-08-28	LOC O
+LONDON 1996-08-28	LOC O
+MONTREAL 1996-08-28	LOC O
+JOHANNESBURG 1996-08-28	LOC O
+Team :	O O
+JOHANNESBURG 1996-08-28	LOC O
+JOHANNESBURG 1996-08-28	LOC O
+.	O
+BELGRADE 1996-08-28	LOC O
+MOSCOW 1996-08-28	LOC O
+Russia and Brazil drew 2-2	LOC O LOC O O
+Scorers :	O O
+( 80th )	O O O
+Attendence : 20,000	O O O
+HONG KONG 1996-08-28	LOC LOC O
+15-6 8-15 15-10 7-15 15-12	O O O O O
+15-7 15-6	O O
+2-15 15-11	O O
+15-6 15-2	O O
+15-13 15-11 15-2	O O O
+15-10 16-17 15-1	O O O
+7-15 15-6 15-11	O O O
+15-10 15-10 15-10	O O O
+R	O
+MANILA 1996-08-28	LOC O
+JERUSALEM 1996-08-28	LOC O
+Results of first division	O O O O
+NEW YORK 1996-08-28	LOC LOC O
+Richard Finn	PER PER
+NEW YORK 1996-08-28	LOC LOC O
+NEW YORK 1996-08-28	LOC LOC O
+6-1 3-6 7-5 6-3	O O O O
+Netherlands ) 6-2 6-1	LOC O O O
+( End first round )	O O O O O
+NEW YORK 1996-08-28	LOC LOC O
+Major League Baseball	MISC MISC MISC
+AMERICAN LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+BALTIMORE 70 61 .534 4	ORG O O O O
+BOSTON 68 65 .511 7	ORG O O O O
+TORONTO 62 71 .466 13	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+CLEVELAND 79 53 .598 -	ORG O O O O
+CHICAGO 70 64 .522 10	ORG O O O O
+MINNESOTA 66 66 .500 13	ORG O O O O
+WESTERN DIVISION	MISC MISC
+TEXAS 75 57 .568 -	ORG O O O O
+CALIFORNIA 61 71 .462 14	ORG O O O O
+WEDNESDAY , AUGUST 28TH SCHEDULE	O O O O O
+CLEVELAND AT DETROIT	ORG O LOC
+MILWAUKEE AT CHICAGO	ORG O LOC
+OAKLAND AT BALTIMORE	ORG O LOC
+MINNESOTA AT TORONTO	ORG O LOC
+TEXAS AT KANSAS CITY	ORG O LOC LOC
+BOSTON AT CALIFORNIA	ORG O LOC
+NEW YORK AT SEATTLE	ORG ORG O LOC
+NATIONAL LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+ATLANTA 81 49 .623 -	ORG O O O O
+MONTREAL 70 60 .538 11	ORG O O O O
+FLORIDA 62 70 .470 20	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+HOUSTON 71 62 .534 -	ORG O O O O
+CINCINNATI 65 66 .496 5	ORG O O O O
+CHICAGO 64 65 .496 5	ORG O O O O
+PITTSBURGH 56 75 .427 14	ORG O O O O
+WESTERN DIVISION	MISC MISC
+COLORADO 69 64 .519 4	ORG O O O O
+WEDNESDAY , AUGUST 28TH SCHEDULE	O O O O O
+CINCINNATI AT COLORADO	ORG O LOC
+LOS ANGELES AT MONTREAL	ORG ORG O LOC
+ATLANTA AT PITTSBURGH	ORG O LOC
+SAN DIEGO AT NEW YORK	ORG ORG O LOC LOC
+CHICAGO AT HOUSTON	ORG O LOC
+FLORIDA AT ST LOUIS	ORG O LOC LOC
+PHILADELPHIA AT SAN FRANCISCO	ORG O LOC LOC
+NEW YORK 1996-08-28	LOC LOC O
+Results of Major League	O O MISC MISC
+National League	MISC MISC
+Philadelphia 3 SAN FRANCISCO 2	ORG O ORG ORG O
+Los Angeles 5 MONTREAL 1	ORG ORG O ORG O
+PITTSBURGH 3 Atlanta 2	ORG O ORG O
+HOUSTON 6 Chicago 5	ORG O ORG O
+Florida 6 ST LOUIS 3	ORG O ORG ORG O
+Cincinnati 4 COLORADO 3	ORG O ORG O
+American League	MISC MISC
+Cleveland 12 DETROIT 2	ORG O ORG O
+BALTIMORE 3 Oakland 1	ORG O ORG O
+Minnesota 6 TORONTO 4	ORG O ORG O
+Milwaukee 4 CHICAGO 2	ORG O ORG O
+Boston 2 CALIFORNIA 1	ORG O ORG O
+SEATTLE 7 New York 4	ORG O ORG ORG O
+Bill Berkrot	PER PER
+NEW YORK 1996-08-27	LOC LOC O
+CHICAGO 1996-08-27	LOC O
+AMSTERDAM 1996-08-28	LOC O
+MADRID 1996-08-28	LOC O
+MADRID 1996-08-28	LOC O
+Halftime 1-0 .	O O O
+Attendance 11,000 .	O O O
+MADRID 1996-08-28	LOC O
+Atletico Madrid 3 Barcelona 1	ORG ORG O ORG O
+AMSTERDAM 1996-08-28	LOC O
+ROME 1996-08-28	LOC O
+BONN 1996-08-28	LOC O
+ROME 1996-08-28	LOC O
+matches played on Wednesday :	O O O O O
+Empoli 1 Milan 1	ORG O ORG O
+Spal 2 Reggiana 4	ORG O ORG O
+Lucchese 1 Vicenza 2	ORG O ORG O
+Cremonese 2 Udinese 1	ORG O ORG O
+Cesena 3 Roma 1	ORG O ORG O
+Bologna 2 Torino 1	ORG O ORG O
+Cosenza 1 Fiorentina 3	ORG O ORG O
+Avellino 0 Lazio 1	ORG O ORG O
+Bari 1 Verona 1	ORG O ORG O
+Pescara 3 Parma 1	ORG O ORG O
+Monza 0 Napoli 1	ORG O ORG O
+Chievo 2 Cagliari 3	ORG O ORG O
+Ravenna 0 Inter 1	ORG O ORG O
+Fidelis Andria 0 Juventus 2	ORG ORG O ORG O
+BONN 1996-08-28	LOC O
+Summaries of Wednesday 's German	O O O O MISC
+first division soccer matches :	O O O O O
+St Pauli 0 .	ORG ORG O O
+Halftime 1-0 .	O O O
+Attendance 27,600 .	O O O
+54th ) .	O O O
+3-1 .	O O
+48,000 .	O O
+0-1 .	O O
+27,000 .	O O
+11,500 .	O O
+0-0 .	O O
+15,000 .	O O
+PARIS 1996-08-28	LOC O
+Leading scorers in the French	O O O O MISC
+Stephane Guivarch ( Rennes )	PER PER O ORG O
+PARIS 1996-08-28	LOC O
+AMSTERDAM 1996-08-28	LOC O
+Summary of Dutch first division	O O MISC O O
+soccer played on Wednesday :	O O O O O
+Halftime 0-1 .	O O O
+Attendance	O
+6,150 .	O O
+de Nooijer 80th ) .	PER PER O O O
+Halftime 0-0 .	O O O
+Attendance 5,696 .	O O O
+Attendance 9,000 .	O O O
+Halftime 0-1 .	O O O
+Attendance 10,000 .	O O O
+Halftime 0-1 .	O O O
+Attendance 22,434 .	O O O
+56rd ) .	O O O
+Halftime 0-1 .	O O O
+Attendance 6,000 .	O O O
+Halftime	O
+1-0 .	O O
+Attendance 48,123 .	O O O
+Played on Tuesday .	O O O O
+Halftime 2-2 .	O O O
+Attendance 4,000 .	O O O
+BONN 1996-08-28	LOC O
+Results of German first division	O O MISC O O
+soccer matches on Wednesday :	O O O O O
+Karlsruhe 4 St Pauli 0	ORG O ORG ORG O
+Cologne 0 Hansa Rostock 2	ORG O ORG ORG O
+Arminia Bielefeld 1 Duisburg 1	ORG ORG O ORG O
+PARIS 1996-08-28	LOC O
+Summaries of French first division	O O MISC O O
+matches on Wednesday :	O O O O
+Bastia 0 Lille 0 .	ORG O ORG O O
+0-0 .	O O
+5,000 .	O O
+0-1 .	O O
+7,000 .	O O
+1-1 .	O O
+12,000 .	O O
+1-2 .	O O
+30,000 .	O O
+2-0 .	O O
+15,000 .	O O
+1-0 .	O O
+14,000 .	O O
+0-1 .	O O
+4,000 .	O O
+1-0 .	O O
+30,000 .	O O
+1-0 .	O O
+16,000 .	O O
+PARIS 1996-08-28	LOC O
+Standings in the French first	O O O MISC O
+PARIS 1996-08-28	LOC O
+French first division soccer	MISC O O O
+matches on Wednesday :	O O O O
+Paris SG 1 Nantes 0	ORG ORG O ORG O
+Lens 3 Montpellier 2	ORG O ORG O
+Bastia 0 Lille 0	ORG O ORG O
+Cannes 0 Monaco 2	ORG O ORG O
+Rennes 1 Bordeaux 1	ORG O ORG O
+Lyon 2 Nancy 0	ORG O ORG O
+Nice 1 Guingamp 2	ORG O ORG O
+Metz 3 Strasbourg 1	ORG O ORG O
+Le Havre 1 Caen 1	ORG ORG O ORG O
+Played Tuesday :	O O O
+Auxerre 0 Marseille 0	ORG O ORG O
+Adrian Warner	PER PER
+BONN 1996-08-28	LOC O
+Christie belongs to them .	PER O O O O
+COLOMBO 1996-08-28	LOC O
+COLOMBO 1996-08-28	LOC O
+COLOMBO 1996-08-28	LOC O
+Scoreboard of the second Singer	O O O O MISC
+Wednesday :	O O
+India	LOC
+A. Jadeja run out 0	PER PER O O O
+S. Tendulkar run out 110	PER PER O O O
+V. Kambli run out 18	PER PER O O O
+R. Dravid not out 7	PER PER O O O
+J. Srinath not out 1	PER PER O O O
+5-0-24-0 .	O O
+Sri Lanka	LOC LOC
+S. Jayasuriya not out 120	PER PER O O O
+R. Kaluwitharana b Tendulkar 53	PER PER O PER O
+A.de Silva not out 49	PER PER O O O
+Fall of wicket : 1-129	O O O O O
+Muthiah Muralitharan , Ravindra Pushpakumara	PER PER O PER PER
+2.2-0-13-0 , Ganguly 2-0-14-0	O O PER O
+Man-of-the-Match : Sanath Jayasuriya	O O PER PER
+COLOMBO 1996-08-28	LOC O
+Teams :	O O
+LUANDA 1996-08-28	LOC O
+JORNAL DE ANGOLA	ORG ORG ORG
+CAPE TOWN 1996-08-28	LOC LOC O
+SOFIA 1996-08-28	LOC O
+FORT WORTH , Texas 1996-08-28	LOC LOC O LOC O
+-- Jim Brumm 212-859-1710 .	O PER PER O O
+Leslie Gevirtz	PER PER
+BOSTON 1996-08-28	LOC O
+. "	O O
+the FDA said .	O ORG O O
+WASHINGTON 1996-08-28	LOC O
+( BILLIONS OF DLRS )	O O O O O
+Aug 27 Aug 26	O O O O
+Fed acct 5.208 4.425	ORG O O O
+Cash balance 20.036 20.112	O O O O
+---	O
+Total public debt ,	O O O O
+subject to limit 5,124.053 5,122.084	O O O O O
+NEW YORK 1996-08-28	LOC LOC O
+NEW YORK 1996-08-28	LOC LOC O
+-- New York Commodities 212-859-1646	O ORG ORG ORG O
+HARLEYSVILLE , Pa .	LOC O LOC O
+1996-08-28	O
+Quarterly	O
+Latest Prior	O O
+Amount $ 0.21 $ 0.19	O O O O O
+Pay Sept 30	O O O
+Record Sept 16	O O O
+NEW YORK 1996-08-28	LOC LOC O
+LONDON 1996-08-28	LOC O
+LONDON 1996-08-28	LOC O
+NEW YORK 1996-08-27	LOC LOC O
+-- Sydney Newsroom 61-2 9373-1800	O ORG ORG O O
+LONDON 1996-08-28	LOC O
+WELLINGTON 1996-08-28	LOC O
+CAIRO 1996-08-28	LOC O
+COLOMBO 1996-08-28	LOC O
+VANCOUVER , British Columbia 1996-08-28	LOC O LOC LOC O
+ABIDJAN 1996-08-28	LOC O
+FREETOWN 1996-08-28	LOC O
+NAIROBI 1996-08-28	LOC O
+LUSAKA 1996-08-28	LOC O
+CONAKRY 1996-08-28	LOC O
+MONROVIA 1996-08-28	LOC O
+LAGOS 1996-08-28	LOC O
+Peter Laca	PER PER
+BRATISLAVA 1996-08-28	LOC O
+WARSAW 1996-08-28	LOC O
+She died in hospital .	O O O O O
+MOSCOW 1996-08-28	LOC O
+TIRANA 1996-08-28	LOC O
+SOFIA 1996-08-28	LOC O
+MOSCOW 1996-08-28	LOC O
+Duncan Shiels	PER PER
+NAGYATAD , Hungary 1996-08-28	LOC O LOC O
+TALLINN 1996-08-28	LOC O
+WARSAW 1996-08-28	LOC O
+BUCHAREST 1996-08-28	LOC O
+-- Bucharest Newsroom 40-1 3120264	O ORG ORG O O
+BOGOTA , Colombia 1996-08-28	LOC O LOC O
+BRASILIA 1996-08-28	LOC O
+SYDNEY 1996-08-29	LOC O
+Year to June 30	O O O O
+Operating profit 9.75 vs 5.79	O O O O O
+Net profit 6.08 vs 3.98	O O O O O
+Sales 148.29 vs 133.82	O O O O
+Other income 1.90 vs 2.07	O O O O O
+Dividend is 100 percent franked	O O O O O
+Pay date Nov 25	O O O O
+Reg date Nov 11	O O O O
+Tax 3.67 vs 1.82	O O O O
+Interest 2.78 vs 2.69	O O O O
+Depreciation 3.25 vs 2.79	O O O O
+-- Sydney newsroom 61-2 9373-1800	O LOC O O O
+BANGKOK 1996-08-28	LOC O
+RAMALLAH , West Bank 1996-08-28	LOC O LOC LOC O
+ANKARA 1996-08-28	LOC O
+ANKARA 1996-08-28	LOC O
+BAGHDAD 1996-08-28	LOC O
+Judith Crosson	PER PER
+VENTURA , Calif. 1996-08-28	LOC O LOC O
+Welcome to the club .	O O O O O
+he said .	O O O
+, KS	O LOC
+RE : $ 45,020,000	O O O O
+WATER REVENUE BONDS	O O O
+$ 22,040,000 SER .	O O O O
+1996A	O
+1996B	O
+06/01 12/01	O O
+-------------------------------------------------------------	O
+1998 665M 840M 570M	O O O O
+2000 - - 605M	O O O O
+2001 - 70M -	O O O O
+2002 - 895M 600M	O O O O
+2003 705M - 795M	O O O O
+2004 655M 90M 965M	O O O O
+2009 65M - -	O O O O
+2010 60M - 100M	O O O O
+2011 30M - 90M	O O O O
+2012 20M - 35M	O O O O
+TOTAL : 11,450	O O O
+CHICAGO 1996-08-28	LOC O
+-- Jerry Bieszk 312-408-8725	O PER PER O
+Greg Frost	PER PER
+KANSAS CITY , Mo .	LOC LOC O LOC O
+1996-08-28	O
+JACKSONVILLE , Fla. 1996-08-28	LOC O LOC O
+NEW YORK 1996-08-28	LOC LOC O
+Evelyn Leopold	PER PER
+UNITED NATIONS 1996-08-28	ORG ORG O
+BERNE 1996-08-28	LOC O
+AMSTERDAM 1996-08-28	LOC O
+1605 GMT	O MISC
+CALLS PUTS PCT OF TOTAL	O O O O O
+- AHOLD 7,190 1,123 10.01	O ORG O O O
+- BOLSWESSANEN 4,420 705 6.17	O ORG O O O
+- ING 3,853 673 5.45	O ORG O O O
+- VNU 3,060 843 4.70	O ORG O O O
+PARIS 1996-08-28	LOC O
+ZURICH 1996-08-28	LOC O
+Closing prices as follows :	O O O O O
+-- Cash :	O O O
+KARACHI , Pakistan 1996-08-28	LOC O LOC O
+BOMBAY 1996-08-28	LOC O
+-- Bombay newsroom +91-22-265 9000	O LOC O O O
+BOMBAY 1996-08-28	LOC O
+-- Bombay newsroom +91-22-265 9000	O LOC O O O
+P.V. Krishnamoorthy	PER PER
+RAMESWARAM , India 1996-08-28	LOC O LOC O
+he said .	O O O
+BOMBAY 1996-08-28	LOC O
+-- Bombay Commodities +91-22-265 9000	O ORG ORG O O
+DRESDEN , Germany 1996-08-28	LOC O LOC O
+ATHENS 1996-08-28	LOC O
+Peter Griffiths	PER PER
+LONDON 1996-08-28	LOC O
+CURRENCIES AT 1500 GMT	O O O MISC
+STOCK MARKETS AT 1500 GMT	O O O O MISC
+PRECIOUS METALS	O O
+( $ 1=.6421 Sterling )	O O O O O
+LONDON 1996-08-28	LOC O
+Wafa Amr	PER PER
+RAMALLAH , West Bank 1996-08-28	LOC O LOC LOC O
+ANKARA 1996-08-28	LOC O
+ANKARA 1996-08-28	LOC O
+DIYARBAKIR , Turkey 1996-08-28	LOC O LOC O
+JERUSALEM 1996-08-28	LOC O
+NEW YORK 1996-08-28	LOC LOC O
+Colo .	LOC LOC
+NEW YORK 1996-08-28	LOC LOC O
+Moody 's Investors Service -	ORG ORG ORG ORG O
+Auth .	ORG ORG
+National	ORG
+Benevolent Assoc .	ORG ORG ORG
+- Colorado Christian Home	O ORG ORG ORG
+Proj .	O O
+Series 1996 B Taxable	O O O O
+State : CO	O O LOC
+Sale Amount : 4,300,000	O O O O
+Expected Sale Date : 08/26/96	O O O O O
+WASHINGTON 1996-08-27	LOC O
+Former Colorado Democratic Gov .	O LOC MISC O O
+MINNEAPOLIS 1996-08-28	LOC O
+Quarterly	O
+Latest Prior	O O
+Amount $ 0.69 $ 0.69	O O O O O
+Pay Oct 20	O O O
+Record Oct 1	O O O
+-- Chicago newsdesk 312 408-8787	O LOC O O O
+Patricia Vowinkel	PER PER
+NEW YORK 1996-08-27	LOC LOC O
+NUREMBERG , Germany 1996-08-28	LOC O LOC O
+BERLIN 1996-08-28	LOC O
+BERLIN 1996-08-28	LOC O
+ATHENS 1996-08-28	LOC O
+AMSTERDAM 1996-08-28	LOC O
+First 24 weeks 1996	O O O O
+Industrial systems and components	O O O O
+- Turnover 756 vs 829	O O O O O
+Industrial services	O O
+- Turnover 657 vs 700	O O O O O
+ROME 1996-08-28	LOC O
+BRUSSELS 1996-08-28	LOC O
+- - - -	O O O O
+BUNOL , Spain 1996-08-28	LOC O LOC O
+ATHENS 1996-08-28	LOC O
+IMERISIA	ORG
+FINANCIAL KATHIMERINI	ORG ORG
+KERDOS	ORG
+EXPRESS	ORG
+NAFTEMBORIKI	O
+AMSTERDAM 1996-08-28	LOC O
+First half 1996	O O O
+Net profit 28.9 vs 24.5	O O O O O
+Turnover 273.6 vs 290.3	O O O O
+Operating profit 44.4 vs 40.7	O O O O O
+Interest charges 2.20 vs 5.05	O O O O O
+Tax 13.26 vs 11.16	O O O O
+LONDON 1996-08-28	LOC O
+WELLINGTON 1996-08-28	LOC O
+0515 GMT	O MISC
+SYDNEY 1996-08-28	LOC O
+-- Sydney Newsroom 61-2 9373-1800	O ORG ORG O O
+SYDNEY 1996-08-28	LOC O
+BRISBANE 1996-08-28	ORG O
+SHANGHAI 1996-08-28	LOC O
+ARANYAPRATHET , Thailand 1996-08-28	O O LOC O
+PHNOM PENH 1996-08-28	LOC LOC O
+TOKYO 1996-08-28	LOC O
+BEIJING 1996-08-28	LOC O
+TOKYO 1996-08-28	LOC O
+HONG KONG 1996-08-28	LOC LOC O
+Six months ended June 30	O O O O O
+Exceptional items nil vs nil	O O O O O
+Net 249.53 vs 242.94	O O O O
+Turnover 119.49 vs 134.40	O O O O
+Books close September 23-27	O O O O
+Dividend payable October 8	O O O O
+JAKARTA 1996-08-28	LOC O
+SHANGHAI 1996-08-28	LOC O
+HONG KONG 1996-08-28	LOC LOC O
+TOKYO 1996-08-28	LOC O
+Total 3,684 3,292 7,011	O O O O
+Major suppliers :	O O O
+China 961 1,683 5,539	LOC O O O
+HONG KONG 1996-08-28	LOC LOC O
+GAZA 1996-08-28	LOC O
+EL PAIS	ORG ORG
+EL MUNDO	ORG ORG
+DIARIO 16	ORG ORG
+ABC	ORG
+CINCO DIAS	ORG ORG
+EXPANSION	ORG
+GACETA DE LOS NEGOCIOS	ORG ORG ORG ORG
+BONN 1996-08-28	LOC O
+BRUSSELS 1996-08-28	LOC O
+REUTER	PER
+COPENHAGEN 1996-08-28	LOC O
+Evelyn Leopold	PER PER
+UNITED NATIONS 1996-08-28	ORG ORG O
+roughly 3 percent . "	O O O O O
+*	O
+*	O
+BRUSSELS 1996-08-29	LOC O
+PARIS 1996-08-29	LOC O
+NORTHAMPTON , England 1996-08-29	LOC O LOC O
+Leading scores after	O O O
+unless stated ) :	O O O O
+66 75	O O
+143 David Gilford 69 74	O PER PER O O
+Davis 71 73	PER O O
+Affleck 74 73 .	PER O O O
+DOETINCHEM , Netherlands 1996-08-29	LOC O LOC O
+1. Sorensen 11.20:33	O PER O
+2. Armstrong 3 seconds behind	O PER O O O
+8. Voskamp same time	O PER O O
+MANCHESTER , England 1996-08-29	LOC O LOC O
+MANCHESTER , England 1996-08-29	LOC O LOC O
+Final :	O O
+seconds	O
+45.455	O
+45.810	O
+Vasilopoulos ) 46.538	PER O O
+three matches ) :	O O O O
+seconds and 12.033 seconds )	O O O O O
+( 11.776 / 12.442 )	O O O O O
+( 12.211 / 12.208 )	O O O O O
+( 12.434 / 12.177).	O O O O
+MANCHESTER , England 1996-08-29	LOC O LOC O
+MANCHESTER , England 1996-08-29	LOC O LOC O
+Scoreboard of the	O O O
+Pakistan	LOC
+Aamir Sohail b Croft 48	PER PER O PER O
+Wasim Akram b Croft 6	PER PER O PER O
+Inzamam-ul-Haq not out 37	PER O O O
+Moin Khan b Gough 10	PER PER O PER O
+Salim Malik not out 6	PER PER O O O
+Saqlain Mushtaq .	PER PER O
+England	LOC
+G. Lloyd not out 2	PER PER O O O
+R. Irani not out 6	PER PER O O O
+DOETINCHEM , Netherlands 1996-08-29	LOC O LOC O
+29 seconds	O O
+1. Sorensen 10.57:33	O PER O
+2. Lombardi 1 second behind	O PER O O O
+3. Armstrong 2 seconds	O PER O O
+4. Den Bakker 7	O PER PER O
+5. Lietti 8	O PER O
+MANCHESTER , England 1996-08-29	LOC O LOC O
+Teams :	O O
+LONDON 1996-08-29	LOC O
+LONDON 1996-08-30	LOC O
+LONDON 1996-08-29	LOC O
+HARARE 1996-08-29	LOC O
+BELGRADE 1996-08-29	LOC O
+Add results	O O
+Final Partizan v Olympiakos .	O ORG O ORG O
+HONG KONG 1996-08-29	LOC LOC O
+SEOUL 1996-08-29	LOC O
+Results of South Korean pro-soccer	O O MISC MISC O
+games played on Wednesday .	O O O O O
+SEOUL 1996-08-29	LOC O
+Results of South Korean	O O MISC MISC
+LG 5 OB 1	ORG O ORG O
+OB 4 LG 3	ORG O ORG O
+Ssangbangwool 12 Hanwha 0	ORG O ORG O
+Hanwha 12 Ssangbangwool 5	ORG O ORG O
+Lotte 4 Hyundai 0	ORG O ORG O
+Samsung 7 Haitai 1	ORG O ORG O
+W D L PCT GB	O O O O O
+NEW YORK 1996-08-29	LOC LOC O
+Women 's singles	O O O
+1-6 6-1	O O
+6- 3	O O
+Men 's singles	O O O
+6- 2 6-3	O O O
+6-4	O
+:	O
+6-2 6-2	O O
+4-6 7-6 ( 7-4 )	O O O O O
+( 7-2 ) 6-4 6-4	O O O O O
+NEW YORK 1996-08-29	LOC LOC O
+Major League Baseball	MISC MISC MISC
+AMERICAN LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+BALTIMORE 70 62 .530 4	ORG O O O O
+BOSTON 69 65 .515 6	ORG O O O O
+TORONTO 63 71 .470 12	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+CLEVELAND 80 53 .602 -	ORG O O O O
+CHICAGO 71 64 .526 10	ORG O O O O
+MINNESOTA 66 67 .496 14	ORG O O O O
+WESTERN DIVISION	MISC MISC
+TEXAS 75 58 .564 -	ORG O O O O
+CALIFORNIA 61 72 .459 14	ORG O O O O
+THURSDAY , AUGUST 29TH SCHEDULE	O O O O O
+KANSAS CITY AT DETROIT	ORG ORG O LOC
+MINNESOTA AT MILWAUKEE	ORG O LOC
+NEW YORK AT CALIFORNIA	ORG ORG O LOC
+BALTIMORE AT SEATTLE	ORG O LOC
+NATIONAL LEAGUE	MISC MISC
+EASTERN DIVISION	MISC MISC
+W L PCT GB	O O O O
+ATLANTA 82 49 .626 -	ORG O O O O
+MONTREAL 71 60 .542 11	ORG O O O O
+FLORIDA 63 70 .474 20	ORG O O O O
+CENTRAL DIVISION	MISC MISC
+HOUSTON 72 62 .537 -	ORG O O O O
+CINCINNATI 65 67 .492 6	ORG O O O O
+CHICAGO 64 66 .492 6	ORG O O O O
+PITTSBURGH 56 76 .424 15	ORG O O O O
+WESTERN DIVISION	MISC MISC
+COLORADO 70 64 .522 4	ORG O O O O
+THURSDAY , AUGUST 29TH SCHEDULE	O O O O O
+SAN DIEGO AT NEW YORK	ORG ORG O LOC LOC
+CHICAGO AT HOUSTON	ORG O LOC
+CINCINNATI AT COLORADO	ORG O LOC
+ATLANTA AT PITTSBURGH	ORG O LOC
+LOS ANGELES AT MONTREAL	ORG ORG O LOC
+FLORIDA AT ST LOUIS	ORG O LOC LOC
+SEATTLE 1996-08-29	LOC O
+At California ,	O LOC O
+In Seattle ,	O LOC O
+NEW YORK 1996-08-29	LOC LOC O
+Results of Major League	O O MISC MISC
+National League	MISC MISC
+COLORADO 10 Cincinnati 9	ORG O ORG O
+MONTREAL 6 Los Angeles 5	ORG O ORG ORG O
+Atlanta 9 PITTSBURGH 4	ORG O ORG O
+SAN FRANCISCO 7 Philadelphia 6	ORG ORG O ORG O
+American League	MISC MISC
+Cleveland 9 DETROIT 3	ORG O ORG O
+CHICAGO 2 Milwaukee 0	ORG O ORG O
+Oakland 3 BALTIMORE 0	ORG O ORG O
+TORONTO 6 Minnesota 1	ORG O ORG O
+Boston 7 CALIFORNIA 4	ORG O ORG O
+SEATTLE 10 New York 2	ORG O ORG ORG O
+Larry Fine	PER PER
+NEW YORK 1996-08-28	LOC LOC O
+" Like traffic .	O O O O
+ATLANTA 1996-08-28	LOC O
+AMSTERDAM 1996-08-28	LOC O
+Halftime 1-1 .	O O O
+Attendance 10,760 .	O O O
+AMSTERDAM 1996-08-29	LOC O
+Result of a Dutch first	O O O MISC O
+Played on Wednesday :	O O O O
+Utrecht 0 Twente Enschede 0	ORG O ORG ORG O
+Feyenoord 2 Graafschap Doetinchem 1	ORG O ORG ORG O
+Volendam 1 PSV Eindhoven 3	ORG O ORG ORG O
+Played on Tuesday :	O O O O
+Fortuna Sittard 2 Heerenveen 4	ORG ORG O ORG O
+Adrian Warner	PER PER
+BERLIN 1996-08-29	LOC O
+MILAN 1996-08-29	LOC O
+NICE , France 1996-08-29	LOC O LOC O
+AMSTERDAM 1996-08-29	LOC O
+BUCHAREST 1996-08-29	LOC O
+ATHENS 1996-08-29	LOC O
+ATHENS 1996-08-29	LOC O
+LONDON 1996-08-29	LOC O
+LONDON 1996-08-29	LOC O
+KINSHASA 1996-08-29	LOC O
+LAGOS 1996-08-29	LOC O
+JOHANNESBURG 1996-08-29	LOC O
+DAKAR 1996-08-29	LOC O
+N'DJAMENA 1996-08-29	LOC O
+ABIDJAN 1996-08-29	LOC O
+FRATERNITE MATIN	ORG ORG
+LA VOIE	ORG ORG
+LE JOUR	ORG ORG
+SARAJEVO 1996-08-29	LOC O
+SKOPJE 1996-08-29	LOC O
+Peter Greste	PER PER
+BELGRADE 1996-08-29	LOC O
+MOSCOW 1996-08-29	LOC O
+BELGRADE 1996-08-29	LOC O
+BUCHAREST 1996-08-29	LOC O
+BELGRADE 1996-08-29	LOC O
+CARACAS 1996-08-28	LOC O
+BOGOTA , Colombia 1996-08-29	LOC O LOC O
+CARACAS 1996-08-29	LOC O
+BUENOS AIRES , Argentina 1996-08-29	LOC LOC O LOC O
+BRASILIA 1996-08-29	LOC O
+MEXICO CITY 1996-08-29	LOC LOC O
+[ CORRECTED 05:53 GMT ]	O O O MISC O
+CHILPANCINGO , Mexico 1996-08-28	LOC O LOC O
+SAO PAULO , Brazil 1996-08-28	PER PER O LOC O
+BRASILIA 1996-08-28	LOC O
+HONG KONG 1996-08-29	LOC LOC O
+BANGKOK 1996-08-29	LOC O
+JERUSALEM 1996-08-29	LOC O
+SKHIRAT , Morocco 1996-08-29	LOC O LOC O
+Michael Conlon	PER PER
+CHICAGO 1996-08-29	LOC O
+NEW YORK 1996-08-29	LOC LOC O
+Previous	O
+8/30 Week Change	O O O
+-------------------------	O
+PHILADELPHIA 1996-08-29	LOC O
+CHICAGO 1996-08-29	LOC O
+-- Chicago newsdesk 312-408-8720--	O LOC O O
+DES MOINES 1996-08-29	LOC LOC O
+- USDA	O ORG
+NEW YORK 1996-08-29	LOC LOC O
+ATLANTIC CITY , N.J. 1996-08-29	LOC LOC O LOC O
+Capt .	O O
+Jackie Frank	PER PER
+WASHINGTON 1996-08-29	LOC O
+" I 'm broke .	O O O O O
+CHICAGO 1996-08-29	LOC O
+CHARLESTON , S.C. 1996-08-29	LOC O LOC O
+MIAMI 1996-08-29	LOC O
+WASHINGTON 1996-08-29	LOC O
+CHICAGO 1996-08-29	LOC O
+CHICAGO 1996-08-29	LOC O
+--	O
+( Chicago newsdesk 312-408-8720 )	O LOC O O O
+PARIS 1996-08-29	LOC O
+RENNES 1996-08-29	ORG O
+DAWN	ORG
+BUSINESS RECORDER	ORG ORG
+FINANCIAL POST	ORG ORG
+THE NATION	ORG ORG
+THE NEWS	ORG ORG
+THE MUSLIM	ORG ORG
+-- Islamabad newsroom 9251-274757	O LOC O O
+SALANG TUNNEL , Afghanistan 1996-08-29	LOC O O LOC O
+NEW DELHI 1996-08-29	LOC LOC O
+KATHMANDU 1996-08-29	LOC O
+COLOMBO 1996-08-29	LOC O
+DENVER 1996-08-29	PER O
+NEW YORK 1996-08-29	LOC LOC O
+NEW YORK 1996-08-29	LOC LOC O
+Monthly	O
+Latest Prior	O O
+Amount $ 0.056 $ 0.056	O O O O O
+Pay Sept 27	O O O
+Record Sept 13	O O O
+Martin Wolk	PER PER
+SEATTLE 1996-08-29	LOC O
+Randall said .	PER O O
+-- Seattle bureau 206-386-4848	O LOC O O
+NEW YORK 1996-08-29	LOC LOC O
+IRVINE , Calif. 1996-08-29	LOC O LOC O
+First Alliance Corporation and Subsidiaries	ORG ORG ORG ORG ORG
+1996 1995 1996 1995	O O O O
+Unaudited	O
+Total revenue	O O
+17,024,000 18,174,000 31,834,000 24,137,000	O O O O
+Total expense	O O
+7,718,000 6,828,000 14,668,000 13,091,000	O O O O
+Net Income Per	O O O
+Share 0.86 1.05 1.59 1.02	O O O O O
+Weighted average number of	O O O O
+shares outstanding	O O
+10,650,407 10,650,407 10,650,407 10,650,407	O O O O
+Pro Forma :	O O O
+Historical income before income	O O O O
+tax provision	O O
+9,306,000 11,346,000 17,166,000 11,046,000	O O O O
+Pro forma income tax	O O O O
+provision 3,820,000 4,658,000 7,047,000 4,534,000	O O O O O
+Pro forma net	O O O
+income 5,486,000 6,688,000 10,119,000 6,512,000	O O O O O
+Pro forma net income	O O O O
+Pro forma weighted average	O O O O
+number of shares	O O O
+outstanding 14,775,000 14,775,000 14,775,000 14,775,000	O O O O O
+LONDON 1996-08-29	LOC O
+LONDON 1996-08-29	LOC O
+OTTAWA 1996-08-29	LOC O
+RAMALLAH , West Bank 1996-08-29	LOC O LOC LOC O
+TEHRAN 1996-08-29	LOC O
+DUBAI 1996-08-29	LOC O
+CAIRO 1996-08-29	LOC O
+DUBAI 1996-08-29	LOC O
+AMMAN 1996-08-29	LOC O
+Palestinians end four-hour strike .	MISC O O O O
+JERUSALEM 1996-08-29	LOC O
+WASHINGTON 1996-08-29	LOC O
+Net Sales : 1996/97 1997/98	O O O O O
+Egypt 199,900 Nil	LOC O O
+S. Korea 149,100-A	LOC LOC O
+Japan 74,600	LOC O
+China 55,000-B	LOC O
+Indonesia 55,000-B	LOC O
+Unknown - 161,600	O O O
+BOSTON 1996-08-29	LOC O
+NEW YORK 1996-08-29	LOC LOC O
+The newspaper also reported :	O O O O O
+WASHINGTON 1996-08-29	LOC O
+Clinton wins Democratic re-nomination .	PER O MISC O O
+CHICAGO 1996-08-28	LOC O
+ATLANTIC HIGHLANDS , N.J. 1996-08-28	LOC LOC O LOC O
+Leila Corcoran	PER PER
+WASHINGTON 1996-08-29	LOC O
+Ulysses Grant 's papers .	PER PER O O O
+CHICAGO 1996-08-28	LOC O
+Sylvie Florence	PER PER
+AJACCIO , Corsica 1996-08-29	LOC O LOC O
+No one was hurt .	O O O O O
+STOCKHOLM 1996-08-29	LOC O
+AMSTERDAM 1996-08-29	LOC O
+29/8/96 22/8/96 1/9/95	O O O
+Gasoline 400 400-425 425	O O O O
+Naphtha 50-75 75-100 50-75	O O O O
+Gas oil 1,600 1,650 1,850-1,900	O O O O O
+Fuel oil 325 325-350 425	O O O O O
+Jet kero 15 15-20 25	O O O O O
+BONN 1996-08-29	LOC O
+CATANIA , Sicily 1996-08-29	LOC O LOC O
+LIMERICK , Ireland 1996-08-29	LOC O LOC O
+GENOA , Italy 1996-08-29	LOC O LOC O
+OSLO 1996-08-29	LOC O
+BRUSSELS 1996-08-29	LOC O
+MADRID 1996-08-29	LOC O
+PARIS 1996-08-29	LOC O
+HELSINKI 1996-08-29	LOC O
+INGOLSTADT 1996-08-29	LOC O
+HELSINKI 1996-08-29	LOC O
+LONDON 1996-08-29	LOC O
+WELLINGTON 1996-08-29	LOC O
+Mark Trevelyan	PER PER
+WELLINGTON 1996-08-29	LOC O
+TAIPEI 1996-08-29	LOC O
+SINGAPORE 1996-08-29	LOC O
+Volume was 19,560 contracts .	O O O O O
+-- Doreen Siow 65-8703092	O PER PER O
+BANGKOK 1996-08-29	LOC O
+TOKYO 1996-08-29	LOC O
+FISCAL AGENT - Tokyo-Mitsubishi Bank	O O O ORG ORG
+Sep.03	O
+Sep.96	O
+FIRST INT PAY 5 .	O O O O O
+Mar.97 INT PAY 5 .	O O O O O
+Mar / Sep	O O O
+Jul-18.Jul	O
+SEOUL 1996-08-29	LOC O
+TOKYO 1996-08-29	LOC O
+LATEST ACTUAL	O O
+( Parent ) FORECAST YEAR-AGO	O O O O O
+JAKARTA 1996-08-29	LOC O
+TOKYO 1996-08-29	LOC O
+LATEST PREVIOUS ACTUAL	O O O
+Sales 11.38 11.38 11.45	O O O O
+Current 1.09 1.09 918 million	O O O O O
+HONG KONG 1996-08-29	LOC LOC O
+SINGAPORE 1996-08-29	LOC O
+BANGKOK 1996-08-29	LOC O
+Six months	O O
+1996 1995	O O
+Net 332.66 vs 266.37	O O O O
+-- Bangkok newsroom 662-252-9950	O LOC O O
+BALANCE OF PAYMENTS	O O O
+INDUSTRIAL PROD .	O O O
+Total M4 adj .	O O O O
+TRADE BALANCE	O O
+Def .	O O
+GDP	O
+EL PAIS	ORG ORG
+EL MUNDO	ORG ORG
+DIARIO 16	ORG ORG
+ABC	ORG
+CINCO DIAS	ORG ORG
+EXPANSION	ORG
+GACETA DE LOS NEGOCIOS	ORG ORG ORG ORG
+VIENNA 1996-08-29	LOC O
+PARIS 1996-08-28	LOC O
+*	O
+Donna Sells	PER PER
+NEW YORK	LOC LOC
+Inc .	ORG O
+AMSTETTEN , Austria 1996-08-30	LOC O LOC O
+Attendance : 800	O O O
+BARRY , Wales 1996-08-30	LOC O LOC O
+Scorers :	O O
+Attendance : 1,800	O O O
+Martin Ayres	PER PER
+MANCHESTER , England 1996-08-30	LOC O LOC O
+MANCHESTER , England 1996-08-30	LOC O LOC O
+Ride for third place :	O O O O O
+Final :	O O
+minutes 31.081 seconds )	O O O O
+One lap behind :	O O O O
+ABDERDEEN , Scotland 1996-08-30	LOC O LOC O
+IMOLA , Italy 1996-08-30	LOC O LOC O
+Practice times set on Friday	O O O O O
+NORTHAMPTON , England 1996-08-30	LOC O LOC O
+Leading scores after	O O O
+Africa ) 66 75 76	LOC O O O O
+LONDON 1996-08-30	LOC O
+Results of English league matches	O O MISC O O
+on Friday :	O O O
+Division two	O O
+Plymouth 2 Preston 1	ORG O ORG O
+Division three	O O
+Swansea 1 Lincoln 2	ORG O ORG O
